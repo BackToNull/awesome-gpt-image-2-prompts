@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://evolink.ai/models/gpt-image-2?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/logo.png" alt="Proje logosu"></a>
+<a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/logo.png" alt="Proje logosu"></a>
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![Try it on Evolink](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai/models/gpt-image-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts)
@@ -116,7 +116,7 @@ Bunu faydali bulursaniz yildiz vermeyi dusunebilirsiniz. ⭐
 
 | Sonuc |
 | :----: |
-| <img src="./images/portrait_case1/output.jpg" width="300" alt="Cikti gorseli"> |
+| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/portrait_case1/output.jpg" width="300" alt="Cikti gorseli"> |
 
 **Prompt:**
 
@@ -132,7 +132,7 @@ Portrait by GPT-Image-2
 
 | Sonuc |
 | :----: |
-| <img src="./images/portrait_case2/output.jpg" width="300" alt="Cikti gorseli"> |
+| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/portrait_case2/output.jpg" width="300" alt="Cikti gorseli"> |
 
 **Prompt:**
 
@@ -145,7 +145,7 @@ Generate a cinematic minimal portrait of a solitary man standing in an intense o
 
 | Sonuc |
 | :----: |
-| <img src="./images/portrait_case3/output.jpg" width="300" alt="Cikti gorseli"> |
+| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/portrait_case3/output.jpg" width="300" alt="Cikti gorseli"> |
 
 **Prompt:**
 
@@ -161,7 +161,7 @@ Portrait By GPT-Image-2
 
 | Sonuc |
 | :----: |
-| <img src="./images/portrait_case4/output.jpg" width="300" alt="Cikti gorseli"> |
+| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/portrait_case4/output.jpg" width="300" alt="Cikti gorseli"> |
 
 **Prompt:**
 
@@ -177,7 +177,7 @@ Today's Portrait by GPT-Image-2
 
 | Sonuc |
 | :----: |
-| <img src="./images/portrait_case5/output.jpg" width="300" alt="Cikti gorseli"> |
+| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/portrait_case5/output.jpg" width="300" alt="Cikti gorseli"> |
 
 **Prompt:**
 
@@ -192,7 +192,7 @@ Negative Prompts: no extra limbs, no deformed hands, no blur, no noise, no water
 
 | Sonuc |
 | :----: |
-| <img src="./images/portrait_case6/output.jpg" width="300" alt="Cikti gorseli"> |
+| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/portrait_case6/output.jpg" width="300" alt="Cikti gorseli"> |
 
 **Prompt:**
 
@@ -210,7 +210,7 @@ Ultra-realistic photorealistic film photography, edgy magazine editorial aesthet
 
 | Sonuc |
 | :----: |
-| <img src="./images/portrait_case7/output.jpg" width="300" alt="Cikti gorseli"> |
+| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/portrait_case7/output.jpg" width="300" alt="Cikti gorseli"> |
 
 **Prompt:**
 
@@ -225,7 +225,7 @@ Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy van
 
 | Sonuc |
 | :----: |
-| <img src="./images/portrait_case8/output.jpg" width="300" alt="Cikti gorseli"> |
+| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/portrait_case8/output.jpg" width="300" alt="Cikti gorseli"> |
 
 **Prompt:**
 
@@ -243,7 +243,7 @@ Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy van
 
 | Sonuc |
 | :----: |
-| <img src="./images/poster_case1/output.jpg" width="300" alt="Cikti gorseli"> |
+| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/poster_case1/output.jpg" width="300" alt="Cikti gorseli"> |
 
 **Prompt:**
 
@@ -258,7 +258,7 @@ A striking Spring 2026 city poster for Boston with an elegant celebratory mood a
 
 | Sonuc |
 | :----: |
-| <img src="./images/poster_case2/output.jpg" width="300" alt="Cikti gorseli"> |
+| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/poster_case2/output.jpg" width="300" alt="Cikti gorseli"> |
 
 **Prompt:**
 
@@ -274,7 +274,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Sonuc |
 | :----: |
-| <img src="./images/poster_case3/output.jpg" width="300" alt="Cikti gorseli"> |
+| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/poster_case3/output.jpg" width="300" alt="Cikti gorseli"> |
 
 **Prompt:**
 
@@ -287,7 +287,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Sonuc |
 | :----: |
-| <img src="./images/poster_case4/output.jpg" width="300" alt="Cikti gorseli"> |
+| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/poster_case4/output.jpg" width="300" alt="Cikti gorseli"> |
 
 **Prompt:**
 
@@ -308,7 +308,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Sonuc |
 | :----: |
-| <img src="./images/poster_case5/output.jpg" width="300" alt="Cikti gorseli"> |
+| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/poster_case5/output.jpg" width="300" alt="Cikti gorseli"> |
 
 **Prompt:**
 
@@ -327,7 +327,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Sonuc |
 | :----: |
-| <img src="./images/poster_case6/output.jpg" width="300" alt="Cikti gorseli"> |
+| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/poster_case6/output.jpg" width="300" alt="Cikti gorseli"> |
 
 **Prompt:**
 
@@ -346,7 +346,7 @@ dutch angle，营造出动感冲刺的气势，字形呈奔放之势；
 
 | Sonuc |
 | :----: |
-| <img src="./images/poster_case7/output.jpg" width="300" alt="Cikti gorseli"> |
+| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/poster_case7/output.jpg" width="300" alt="Cikti gorseli"> |
 
 **Prompt:**
 
@@ -361,7 +361,7 @@ dutch angle，营造出动感冲刺的气势，字形呈奔放之势；
 
 | Sonuc |
 | :----: |
-| <img src="./images/poster_case8/output.jpg" width="300" alt="Cikti gorseli"> |
+| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/poster_case8/output.jpg" width="300" alt="Cikti gorseli"> |
 
 **Prompt:**
 
@@ -382,7 +382,7 @@ dutch angle，营造出动感冲刺的气势，字形呈奔放之势；
 
 | Sonuc |
 | :----: |
-| <img src="./images/poster_case9/output.jpg" width="300" alt="Cikti gorseli"> |
+| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/poster_case9/output.jpg" width="300" alt="Cikti gorseli"> |
 
 **Prompt:**
 
@@ -398,7 +398,7 @@ dutch angle，营造出动感冲刺的气势，字形呈奔放之势；
 
 | Sonuc |
 | :----: |
-| <img src="./images/character_case1/output.jpg" width="300" alt="Cikti gorseli"> |
+| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/character_case1/output.jpg" width="300" alt="Cikti gorseli"> |
 
 **Prompt:**
 
@@ -411,7 +411,7 @@ Show me the attached image as a snapshot from an actual anime
 
 | Sonuc |
 | :----: |
-| <img src="./images/character_case2/output.jpg" width="300" alt="Cikti gorseli"> |
+| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/character_case2/output.jpg" width="300" alt="Cikti gorseli"> |
 
 **Prompt:**
 
@@ -432,7 +432,7 @@ prompt:
 
 | Sonuc |
 | :----: |
-| <img src="./images/character_case3/output.jpg" width="300" alt="Cikti gorseli"> |
+| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/character_case3/output.jpg" width="300" alt="Cikti gorseli"> |
 
 **Prompt:**
 
@@ -458,7 +458,7 @@ prompt:
 
 | Sonuc |
 | :----: |
-| <img src="./images/character_case4/output.jpg" width="300" alt="Cikti gorseli"> |
+| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/character_case4/output.jpg" width="300" alt="Cikti gorseli"> |
 
 **Prompt:**
 
@@ -473,7 +473,7 @@ prompt:
 
 | Sonuc |
 | :----: |
-| <img src="./images/character_case5/output.jpg" width="300" alt="Cikti gorseli"> |
+| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/character_case5/output.jpg" width="300" alt="Cikti gorseli"> |
 
 **Prompt:**
 
@@ -506,7 +506,7 @@ Kusさん
 
 | Sonuc |
 | :----: |
-| <img src="./images/character_case6/output.jpg" width="300" alt="Cikti gorseli"> |
+| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/character_case6/output.jpg" width="300" alt="Cikti gorseli"> |
 
 **Prompt:**
 
@@ -541,7 +541,7 @@ NanoBananaProは安定で間違えなし。
 
 | Sonuc |
 | :----: |
-| <img src="./images/ui_case1/output.jpg" width="300" alt="Cikti gorseli"> |
+| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/ui_case1/output.jpg" width="300" alt="Cikti gorseli"> |
 
 **Prompt:**
 
@@ -556,7 +556,7 @@ NanoBananaProは安定で間違えなし。
 
 | Sonuc |
 | :----: |
-| <img src="./images/ui_case2/output.jpg" width="300" alt="Cikti gorseli"> |
+| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/ui_case2/output.jpg" width="300" alt="Cikti gorseli"> |
 
 **Prompt:**
 
@@ -569,7 +569,7 @@ Amateur iPhone photo at Apple Park during the iPhone 20 keynote, Tim Cook presen
 
 | Sonuc |
 | :----: |
-| <img src="./images/ui_case3/output.jpg" width="300" alt="Cikti gorseli"> |
+| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/ui_case3/output.jpg" width="300" alt="Cikti gorseli"> |
 
 **Prompt:**
 
@@ -582,7 +582,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 | Sonuc |
 | :----: |
-| <img src="./images/ui_case4/output.jpg" width="300" alt="Cikti gorseli"> |
+| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/ui_case4/output.jpg" width="300" alt="Cikti gorseli"> |
 
 **Prompt:**
 
@@ -595,7 +595,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 | Sonuc |
 | :----: |
-| <img src="./images/ui_case5/output.jpg" width="300" alt="Cikti gorseli"> |
+| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/ui_case5/output.jpg" width="300" alt="Cikti gorseli"> |
 
 **Prompt:**
 
@@ -611,7 +611,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 | Sonuc |
 | :----: |
-| <img src="./images/ui_case6/output.jpg" width="300" alt="Cikti gorseli"> |
+| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/ui_case6/output.jpg" width="300" alt="Cikti gorseli"> |
 
 **Prompt:**
 
@@ -638,7 +638,7 @@ T-800机器人的淘宝商品详情页，展示:
 
 | Sonuc |
 | :----: |
-| <img src="./images/ui_case7/output.jpg" width="300" alt="Cikti gorseli"> |
+| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/ui_case7/output.jpg" width="300" alt="Cikti gorseli"> |
 
 **Prompt:**
 
@@ -652,7 +652,7 @@ T-800机器人的淘宝商品详情页，展示:
 
 | Sonuc |
 | :----: |
-| <img src="./images/ui_case8/output.jpg" width="300" alt="Cikti gorseli"> |
+| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/ui_case8/output.jpg" width="300" alt="Cikti gorseli"> |
 
 **Prompt:**
 
@@ -669,7 +669,7 @@ gpt-image-2
 
 | Sonuc |
 | :----: |
-| <img src="./images/comparison_case1/output.jpg" width="300" alt="Cikti gorseli"> |
+| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case1/output.jpg" width="300" alt="Cikti gorseli"> |
 
 **Prompt:**
 
@@ -687,7 +687,7 @@ gpt-image-2
 
 | Sonuc |
 | :----: |
-| <img src="./images/comparison_case2/output.jpg" width="300" alt="Cikti gorseli"> |
+| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case2/output.jpg" width="300" alt="Cikti gorseli"> |
 
 **Prompt:**
 
@@ -700,7 +700,7 @@ I’m honestly blown away. GPT IMAGE 2 doesn’t “prompt” scenes, it directs
 
 | Sonuc |
 | :----: |
-| <img src="./images/comparison_case3/output.jpg" width="300" alt="Cikti gorseli"> |
+| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case3/output.jpg" width="300" alt="Cikti gorseli"> |
 
 **Prompt:**
 
@@ -715,7 +715,7 @@ Mark actions and camera moves right on a reference frame → 10x more context an
 
 | Sonuc |
 | :----: |
-| <img src="./images/comparison_case4/output.jpg" width="300" alt="Cikti gorseli"> |
+| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case4/output.jpg" width="300" alt="Cikti gorseli"> |
 
 **Prompt:**
 
@@ -737,7 +737,7 @@ All in seconds. Same prompt, wildly different styles.
 
 | Sonuc |
 | :----: |
-| <img src="./images/comparison_case5/output.jpg" width="300" alt="Cikti gorseli"> |
+| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case5/output.jpg" width="300" alt="Cikti gorseli"> |
 
 **Prompt:**
 
@@ -753,7 +753,7 @@ Prompt : A wooden bookshelf consisting of three shelves: On the top shelf, there
 
 | Sonuc |
 | :----: |
-| <img src="./images/comparison_case6/output.jpg" width="300" alt="Cikti gorseli"> |
+| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case6/output.jpg" width="300" alt="Cikti gorseli"> |
 
 **Prompt:**
 
@@ -766,7 +766,7 @@ generate an image of donald trump shaking hands with a confused joe biden as the
 
 | Sonuc |
 | :----: |
-| <img src="./images/comparison_case7/output.jpg" width="300" alt="Cikti gorseli"> |
+| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case7/output.jpg" width="300" alt="Cikti gorseli"> |
 
 **Prompt:**
 
@@ -781,7 +781,7 @@ Link in the comment👇
 
 | Sonuc |
 | :----: |
-| <img src="./images/comparison_case8/output.jpg" width="300" alt="Cikti gorseli"> |
+| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case8/output.jpg" width="300" alt="Cikti gorseli"> |
 
 **Prompt:**
 
@@ -796,7 +796,7 @@ First impression: the jump in aesthetics is very noticeable. Portraits feel more
 
 | Sonuc |
 | :----: |
-| <img src="./images/comparison_case9/output.jpg" width="300" alt="Cikti gorseli"> |
+| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case9/output.jpg" width="300" alt="Cikti gorseli"> |
 
 **Prompt:**
 
@@ -813,7 +813,7 @@ First impression: the jump in aesthetics is very noticeable. Portraits feel more
 
 | Sonuc |
 | :----: |
-| <img src="./images/comparison_case10/output.jpg" width="300" alt="Cikti gorseli"> |
+| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case10/output.jpg" width="300" alt="Cikti gorseli"> |
 
 **Prompt:**
 
@@ -830,7 +830,7 @@ First impression: the jump in aesthetics is very noticeable. Portraits feel more
 
 | Sonuc |
 | :----: |
-| <img src="./images/comparison_case11/output.jpg" width="300" alt="Cikti gorseli"> |
+| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case11/output.jpg" width="300" alt="Cikti gorseli"> |
 
 **Prompt:**
 
@@ -847,7 +847,7 @@ First impression: the jump in aesthetics is very noticeable. Portraits feel more
 
 | Sonuc |
 | :----: |
-| <img src="./images/comparison_case12/output.jpg" width="300" alt="Cikti gorseli"> |
+| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case12/output.jpg" width="300" alt="Cikti gorseli"> |
 
 **Prompt:**
 
@@ -863,7 +863,7 @@ First impression: the jump in aesthetics is very noticeable. Portraits feel more
 
 | Sonuc |
 | :----: |
-| <img src="./images/comparison_case13/output.jpg" width="300" alt="Cikti gorseli"> |
+| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case13/output.jpg" width="300" alt="Cikti gorseli"> |
 
 **Prompt:**
 
@@ -882,7 +882,7 @@ First impression: the jump in aesthetics is very noticeable. Portraits feel more
 
 | Sonuc |
 | :----: |
-| <img src="./images/comparison_case14/output.jpg" width="300" alt="Cikti gorseli"> |
+| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case14/output.jpg" width="300" alt="Cikti gorseli"> |
 
 **Prompt:**
 
@@ -905,7 +905,7 @@ GPT‑Image‑1.5なので同系のチャッピーでも
 
 | Sonuc |
 | :----: |
-| <img src="./images/comparison_case15/output.jpg" width="300" alt="Cikti gorseli"> |
+| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case15/output.jpg" width="300" alt="Cikti gorseli"> |
 
 **Prompt:**
 
@@ -919,7 +919,7 @@ Skills化するか
 
 | Sonuc |
 | :----: |
-| <img src="./images/comparison_case16/output.jpg" width="300" alt="Cikti gorseli"> |
+| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case16/output.jpg" width="300" alt="Cikti gorseli"> |
 
 **Prompt:**
 
@@ -946,7 +946,7 @@ GPT Image 2 はまだ正式リリースされてないと言っておりまし�
 
 | Sonuc |
 | :----: |
-| <img src="./images/comparison_case17/output.jpg" width="300" alt="Cikti gorseli"> |
+| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case17/output.jpg" width="300" alt="Cikti gorseli"> |
 
 **Prompt:**
 
@@ -962,7 +962,7 @@ GPT Image 2 はまだ正式リリースされてないと言っておりまし�
 
 | Sonuc |
 | :----: |
-| <img src="./images/comparison_case18/output.jpg" width="300" alt="Cikti gorseli"> |
+| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case18/output.jpg" width="300" alt="Cikti gorseli"> |
 
 **Prompt:**
 
@@ -979,7 +979,7 @@ GPT Image 2 はまだ正式リリースされてないと言っておりまし�
 
 | Sonuc |
 | :----: |
-| <img src="./images/comparison_case19/output.jpg" width="300" alt="Cikti gorseli"> |
+| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case19/output.jpg" width="300" alt="Cikti gorseli"> |
 
 **Prompt:**
 
@@ -996,7 +996,7 @@ GPT Image 2 はまだ正式リリースされてないと言っておりまし�
 
 | Sonuc |
 | :----: |
-| <img src="./images/comparison_case20/output.jpg" width="300" alt="Cikti gorseli"> |
+| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case20/output.jpg" width="300" alt="Cikti gorseli"> |
 
 **Prompt:**
 
@@ -1014,7 +1014,7 @@ GPT Image 2 はまだ正式リリースされてないと言っておりまし�
 
 | Sonuc |
 | :----: |
-| <img src="./images/comparison_case21/output.jpg" width="300" alt="Cikti gorseli"> |
+| <a href="https://evolink.ai/gpt-image-1-5?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case21/output.jpg" width="300" alt="Cikti gorseli"> |
 
 **Prompt:**
 
