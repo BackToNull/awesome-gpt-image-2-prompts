@@ -999,6 +999,41 @@ GPTimage2との組み合わせがかなり良さそうで楽しみ。
 中式怪异，黑暗神秘风格融合中式美学，完美细节，多重管线渲染，完美建模。西游记背景，狮驼岭，千妖万怪，坐在左边巨大王座上的大象王重甲妖精，坐在中间巨大王座上的狮王重甲妖精，坐在右边巨大王座上大鹏鸟王重甲妖精。渺小的背对镜头孙悟空肩抗金箍棒步行前进，孙悟空身穿铠甲，近地仰拍镜头，长焦镜头，强烈阴影。极致细节刻画，多次修改，正确透视和主体线条，精致细节
 ```
 
+<!-- Case NEW13: Luxury Editorial Bookshelf (by @SRKDAN) -->
+### Case NEW13: [Luxury Editorial Bookshelf](https://x.com/SRKDAN/status/2045683829700964821) (by [@SRKDAN](https://x.com/SRKDAN))
+
+| Output |
+| :----: |
+| Output preview unavailable |
+
+**Prompt:**
+
+```
+PHASE 1, SCENE SETUP: Q1 marble counter with warm sunlight, scattered typography books, matte pen, coffee. Q2 dark oak shelving with gallery light, art deco frame, minimal. Q3 natural wood bench outdoor, woven basket, green foliage. Q4 luxury bathroom vanity, mirror, ceramic vessel, dried flowers.
+
+PHASE 2, PALETTE: Q1 warm golds and creams, Q2 charcoal and brass, Q3 sage green and natural wood, Q4 soft mauve and whites.
+
+PHASE 3, LIGHTING: Q1 golden hour window shadows, Q2 dramatic gallery spots, Q3 dappled leaf light, Q4 moody bathroom light.
+
+PHASE 4, MOOD: Q1 luxury lifestyle, Q2 editorial art, Q3 natural and organic, Q4 spa and intimate.
+
+Swap variables: [SUBJECT] / [STYLE] / [CONTEXT]
+```
+
+<!-- Case NEW14: Dreamy Watercolor Editorial Illustration (by @hmontilla_) -->
+### Case NEW14: [Dreamy Watercolor Editorial Illustration](https://x.com/hmontilla_/status/2045513933096636575) (by [@hmontilla_](https://x.com/hmontilla_))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="https://pbs.twimg.com/media/HGMjl-RXkAAn67R.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Ilustración en acuarela de estilo onírico de [sujeto], con estética impresionista ligera, pinceladas sueltas y lavados translúcidos en tonos [color1] y [color2]. Difuminado suave sobre textura de papel prensado en frío, iluminación delicada, composición limpia, enfoque minimalista, sensación de calma, ligereza y belleza efímera, alta calidad, estilo editorial.
+```
+
+
 ## Acknowledge
 
 This repository was inspired by outstanding open prompt collections and community-shared GPT-Image-2 experiments.
