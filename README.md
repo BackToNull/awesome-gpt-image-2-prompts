@@ -43,6 +43,7 @@ If you find this useful, consider giving it a star. ⭐
 
 ## News
 
+- **April 19, 2026:** Added 10 new GPT-Image-2 prompts across poster, UI, and comparison cases
 - **April 18, 2026:** First repository release with curated GPT-Image-2 case set
 
 ## Menu
@@ -1101,4 +1102,3 @@ Thanks to the creators and contributors who shared their work publicly and made 
 *We cannot guarantee that every case is attributed to the original creator. If anything needs to be corrected, please contact us and we will update it.*
 
 If you have more interesting GPT-Image-2 prompt cases to share, feel free to reach out and help us expand the Evolink prompt library.
-

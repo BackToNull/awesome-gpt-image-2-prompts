@@ -43,6 +43,7 @@ Bunu faydali bulursaniz yildiz vermeyi dusunebilirsiniz. ⭐
 
 ## Haberler
 
+- **19 Nisan 2026:** Poster, UI ve karsilastirma kategorilerine 10 yeni GPT-Image-2 promptu eklendi
 - **18 Nisan 2026:** Derlenmis GPT-Image-2 vaka setiyle ilk depo yayini
 
 ## Menu
@@ -56,7 +57,6 @@ Bunu faydali bulursaniz yildiz vermeyi dusunebilirsiniz. ⭐
   - [Vaka 3: Japon Onsen Ryokan Portresi (by @BubbleBrain)](#case-3-japanese-onsen-ryokan-portrait-by-bubblebrain)
   - [Vaka 4: 35 mm Flash Editorial Portre (by @BubbleBrain)](#case-4-35mm-flash-editorial-portrait-by-bubblebrain)
   - [Vaka 5: Yatak Odasi Ayna Selfie Portresi (by @Shinning1010)](#case-5-mirror-selfie-bedroom-portrait-by-shinning1010)
-  - [Vaka 6: Dusuk Aci POV Moda Editoriali (by @BubbleBrain)](#case-6-low-angle-pov-fashion-editorial-by-bubblebrain)
   - [Vaka 7: Luks Glam Guzellik Portresi (by @patrickassale)](#case-7-luxury-glam-beauty-portrait-by-patrickassale)
   - [Vaka 8: 9:16 Cosplayer Portre Ekran Goruntusu (by @Zoulinshen)](#case-8-916-cosplayer-portrait-screenshot-by-zoulinshen)
 - [Poster ve Illustrasyon Vakalari](#poster-ve-illustrasyon-vakalari)
@@ -65,33 +65,36 @@ Bunu faydali bulursaniz yildiz vermeyi dusunebilirsiniz. ⭐
   - [Vaka 3: Chengdu Yemek Haritasi Illustrasyonu (by @Panda20230902)](#case-3-chengdu-food-map-illustration-by-panda20230902)
   - [Vaka 4: Cin Minimalist S Sekilli Poster (by @liyue_ai)](#case-4-chinese-minimalist-s-shaped-poster-by-liyue_ai)
   - [Vaka 5: 2026 Ilkbahar Guangzhou Sehir Posteri (by @liyue_ai)](#case-5-2026-spring-guangzhou-city-poster-by-liyue_ai)
-  - [Vaka 6: Yaratici Kaligrafi Tipografisi (by @liyue_ai)](#case-6-creative-calligraphy-typography-by-liyue_ai)
   - [Vaka 7: Doodle Eskiz AI Builder (by @blanplan)](#case-7-doodle-sketch-ai-builder-by-blanplan)
   - [Vaka 8: Futuristik Mandala Illustrasyonu (by @4WEB1)](#case-8-futuristic-mandala-illustration-by-4web1)
   - [Vaka 9: Super Famicom Poster Stili (by @lilimliliychan)](#case-9-super-famicom-poster-style-by-lilimliliychan)
+  - [Vaka 22: Chengdu Yemek Haritasi Illustrasyonu (by @Panda20230902)](#case-22-chengdu-food-map-illustration-by-panda20230902)
+  - [Vaka 24: Bahar Guangzhou Sehir Posteri (by @alanlovelq)](#case-24-spring-guangzhou-city-poster-by-alanlovelq)
+  - [Vaka 26: Qiongqi Dogu Estetigi Posteri (by @liyue_ai)](#case-26-qiongqi-eastern-aesthetics-poster-by-liyue_ai)
+  - [Vaka 27: Guangzhou Kagit Kesim Sehir Posteri (by @liyue_ai)](#case-27-guangzhou-paper-cut-city-poster-by-liyue_ai)
+  - [Vaka 28: Asiri Perspektif Tipografi Koprusu (by @xpg0970)](#case-28-extreme-perspective-typography-bridge-by-xpg0970)
+  - [Vaka 31: Hayalimsi Suluboya Editorial Illustrasyon (by @hmontilla_)](#case-31-dreamy-watercolor-editorial-illustration-by-hmontilla_)
 - [Karakter Tasarimi Vakalari](#karakter-tasarimi-vakalari)
   - [Vaka 1: Anime Snapshot Donusumu (by @Thereallo1026)](#case-1-anime-snapshot-conversion-by-thereallo1026)
   - [Vaka 2: Persona5 Karakter Referans Karti (by @iamrednightS)](#case-2-persona5-character-reference-card-by-iamrednights)
   - [Vaka 3: Gal Game Karakter Tanitim Sayfasi (by @09lyco)](#case-3-gal-game-character-introduction-page-by-09lyco)
   - [Vaka 4: Chibi Karakter Referans Sayfasi (by @tsubaki_ew)](#case-4-chibi-character-reference-sheet-by-tsubaki_ew)
   - [Vaka 5: Resmi Karakter Sayfasi (JP) (by @Toshi_nyaruo_AI)](#case-5-official-character-sheet-jp-by-toshi_nyaruo_ai)
-  - [Vaka 6: Dort Modelli Gercekci Karakter Sayfasi Karsilasmasi (by @yyu_hase)](#case-6-four-model-realistic-character-sheet-battle-by-yyu_hase)
 - [UI ve Sosyal Medya Mockup Vakalari](#ui-ve-sosyal-medya-mockup-vakalari)
   - [Vaka 1: Tek Promptla UI Tasarim Uretimi (by @austinit)](#case-1-one-prompt-ui-design-generation-by-austinit)
   - [Vaka 2: Amator iPhone Keynote Anlik Goruntusu (by @patrickassale)](#case-2-amateur-iphone-keynote-snapshot-by-patrickassale)
   - [Vaka 3: El Yazili Defter Fotografı (by @patrickassale)](#case-3-handwritten-notebook-photo-by-patrickassale)
   - [Vaka 4: Song Hanedani Sosyal Medya Akisi (by @Panda20230902)](#case-4-song-dynasty-social-media-feed-by-panda20230902)
   - [Vaka 5: Cok Platformlu Icerik Ekran Goruntuleri (by @MrLarus)](#case-5-multi-platform-content-screenshots-by-mrlarus)
-  - [Vaka 6: Dort Promptlu Yaratici Ekran Goruntusu Seti (by @rionaifantasy)](#case-6-four-prompt-creative-screenshot-set-by-rionaifantasy)
   - [Vaka 7: Liu Yifei Douyin Canli Yayin Ekran Goruntusu (by @alanblogsooo)](#case-7-liu-yifei-douyin-livestream-screenshot-by-alanblogsooo)
   - [Vaka 8: Kral Taejo Yi Seong-gye X Sayfasi (by @SKA_Neotype)](#case-8-king-taejo-yi-seong-gyes-x-page-by-ska_neotype)
+  - [Vaka 25: Muze Tarzi Hanfu Parca Analiz Infografigi (by @MrLarus)](#case-25-museum-style-hanfu-breakdown-infographic-by-mrlarus)
 - [Karsilastirma ve Topluluk Ornekleri](#karsilastirma-ve-topluluk-ornekleri)
   - [Vaka 1: Model Karsilastirmasi: GPT Image 2 ve Nano Banana 2 (by @desds1678)](#case-1-model-comparison-gpt-image-2-vs-nano-banana-2-by-desds1678)
   - [Vaka 2: Referans Kare Uzerinden Dogrudan Yonlendirme (by @samifox_ai)](#case-2-direct-on-reference-frame-directing-by-samifox_ai)
   - [Vaka 3: Referans Kare Sahne Yonlendirmesi (by @HuliJason)](#case-3-reference-frame-scene-direction-by-hulijason)
   - [Vaka 4: GPT-Image-2 Lansman Vitrini (by @MikelEcheve)](#case-4-gpt-image-2-launch-showcase-by-mikelecheve)
   - [Vaka 5: Ahsap Kitaplik Prompt Testi (by @chetaslua)](#case-5-wooden-bookshelf-prompt-test-by-chetaslua)
-  - [Vaka 6: Trump ve Biden Oval Office Tokalasmasi (by @signedbywill)](#case-6-trump-biden-oval-office-handshake-by-signedbywill)
   - [Vaka 7: GPT Image 2 ve Nano Banana 2 Vitrini (by @zerolu_eth)](#case-7-gpt-image-2-vs-nano-banana-2-showcase-by-zerolu_eth)
   - [Vaka 8: Arena Ilk Izlenim Testi (by @Cheney_NehcOal)](#case-8-arena-first-impression-test-by-cheney_nehcoal)
   - [Vaka 9: Prompt Takasi Kel Fotograf Testi (by @cnzoecomeback)](#case-9-prompt-swap-bald-photo-test-by-cnzoecomeback)
@@ -107,6 +110,9 @@ Bunu faydali bulursaniz yildiz vermeyi dusunebilirsiniz. ⭐
   - [Vaka 19: MAI-Image-2 ve GPT ve Nano Banana Pro (by @old_pgmrs_will)](#case-19-mai-image-2-vs-gpt-vs-nano-banana-pro-by-old_pgmrs_will)
   - [Vaka 20: Beyaz Tahta Cizim Vitrini (by @jrpj2010)](#case-20-whiteboard-drawing-showcase-by-jrpj2010)
   - [Vaka 21: SeeDance 2.0 + GPT-Image-2 Kombosu (by @CEs7J0Mfn8x37k5)](#case-21-seedance-20-gpt-image-2-combo-by-ces7j0mfn8x37k5)
+  - [Vaka 23: Siluet Evren Anlatili Posteri (by @MrLarus)](#case-23-silhouette-universe-narrative-poster-by-mrlarus)
+  - [Vaka 29: Lion Camel Ridge Karanlik Mit Sahnesi (by @MANISH1027512)](#case-29-lion-camel-ridge-dark-myth-scene-by-manish1027512)
+  - [Vaka 30: Luks Editorial Kitaplik (by @SRKDAN)](#case-30-luxury-editorial-bookshelf-by-srkdan)
 - [Tesekkur](#tesekkur)
 
 ## Portre ve Fotografcilik Vakalari
@@ -171,22 +177,6 @@ Generate a cinematic minimal portrait of a solitary man standing in an intense o
 ```
 A stunning 18-year-old Chinese girl with a youthful, pure face and realistic skin texture, sitting on a cozy, slightly messy bed in her bedroom. She is taking a mirror selfie with a smartphone, capturing a natural and intimate moment. Wearing casual gray loungewear and neat white crew socks. Soft natural light (golden hour) streams in from a side window, creating a warm, moody, and cinematic atmosphere. 35mm lens, sharp focus on the subject in the mirror, depth of field with a beautifully blurred background (bokeh). Photorealistic, 8K, high resolution, studio quality, masterpiece.
 Negative Prompts: no extra limbs, no deformed hands, no blur, no noise, no watermark, no text, no cartoon/anime style. Aspect Ratio: 3:4.
-```
-<!-- Vaka 6: Dusuk Aci POV Moda Editoriali (by @BubbleBrain) -->
-### Vaka 6: [Dusuk Aci POV Moda Editoriali](https://x.com/BubbleBrain/status/2044705257004093537) (by [@BubbleBrain](https://x.com/BubbleBrain))
-
-| Sonuc |
-| :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/portrait_case6/output.jpg" width="300" alt="Cikti gorseli"> |
-
-**Prompt:**
-
-```
-Analog 35mm film photography, high-fashion editorial portrait with intense on-camera direct flash (CCD hard flash style), intimate low-angle POV shot from slightly below (仰拍, around +15° upward angle), emphasizing long legs and elegant hourglass body proportions, 4:3 vertical format, 3/4 body shot, early 20s Korean idol-type young woman with delicate refined features, slightly upturned almond-shaped fox eyes, small sharp jawline, flawless porcelain skin with cool ivory undertone and visible specular highlights from direct flash, soft coral blush, natural dusty rose lips slightly parted, long naturally wavy dark brown hair with loose strands framing the face, wearing a slightly tilted black police peaked cap with silver badge.
-She wears a fitted, stylish policewoman-inspired outfit: black short-sleeved collared crop top with shiny silver buttons and epaulets, a shiny silver police badge pinned on the chest, a thin black necktie loosely hanging at the front, a wide black duty belt with a silver buckle and handcuffs at the side, and a short black pleated mini skirt. Black thigh-high stockings and white low-top canvas sneakers with loose lacing add a casual contrast.
-Pose: a subtle S-curve stance with weight shifted to one leg, hips angled slightly toward the camera to enhance silhouette and leg length. One hand lightly touches the cap brim or rests near the waist, while the other hand is placed at the hip or near the belt. Head tilted slightly down with a confident, self-assured upward gaze through lashes directed at the viewer, expression poised, cool, and subtly playful rather than overtly seductive.
-Harsh on-camera direct flash from front/slightly above creates strong catchlights, sharp shadows behind the subject, crisp highlights on skin, hair, badge, belt buckle, and fabric textures. Cold flash quality mixed with warm ambient window light, visible flash fall-off, Kodak Portra 400 film simulation pushed for strong analog character, warm peachy skin tones with flash highlights, subtle cyan shadows, prominent heavy analog film grain (strength 0.65, larger grain size), noticeable film halation around bright areas, strong natural vignette, slight underexposure for a raw intimate mood.
-Ultra-realistic photorealistic film photography, edgy magazine editorial aesthetic, visible fabric texture and reflective metal details, delicate hair strands glowing from flash, natural skin texture with heavy film grain throughout, no plastic skin, no digital sharpness, no airbrushing, no watermark, no text, authentic 35mm film look with strong grain and flash artifacts, analog color grading.
 ```
 <!-- Vaka 7: Luks Glam Guzellik Portresi (by @patrickassale) -->
 ### Vaka 7: [Luks Glam Guzellik Portresi](https://x.com/patrickassale/status/2044581766309060765) (by [@patrickassale](https://x.com/patrickassale))
@@ -292,24 +282,6 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 云雾环绕，仙气缥缈，色彩丰富，结构复杂，细节丰富，但因为大面积的留白，画面依然显得清新脱俗，左下角排版着“SPRING 2026”和竖排的宣传语，整体寓意“千年商都，魅力广州”。
 文字排版优美，大方，字迹清晰完整，尺寸9:16。
 ```
-<!-- Vaka 6: Yaratici Kaligrafi Tipografisi (by @liyue_ai) -->
-### Vaka 6: [Yaratici Kaligrafi Tipografisi](https://x.com/liyue_ai/status/2045328856937312549) (by [@liyue_ai](https://x.com/liyue_ai))
-
-| Sonuc |
-| :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/poster_case6/output.jpg" width="300" alt="Cikti gorseli"> |
-
-**Prompt:**
-
-```
-创意艺术字体“纵有疾风起”，秀丽笔手写风格，整体文字横版排列，具有强烈视觉冲击力；
-深度融合手写书法笔意，笔触带毛笔书写的粗犷洒脱，如挥毫泼墨的肆意劲道；
-起收笔的飞白，顿挫，尽显促销的火爆张力，文字的形态打破规整，笔画的粗细变化；
-dutch angle，营造出动感冲刺的气势，字形呈奔放之势；
-重心上扬如蓄势待发，笔画的伸展，穿插毫无拘束，似全力冲刺的劲道；
-整体架构疏密交织，紧密处如促销热潮的汹涌，留白处似优惠间隙的呼吸感；
-纯净黑色背景打底，完美契合热烈氛围，艺术字的形态与色彩酣畅传递。
-```
 <!-- Vaka 7: Doodle Eskiz AI Builder (by @blanplan) -->
 ### Vaka 7: [Doodle Eskiz AI Builder](https://x.com/blanplan/status/2045190582453350748) (by [@blanplan](https://x.com/blanplan))
 
@@ -354,6 +326,98 @@ dutch angle，营造出动感冲刺的气势，字形呈奔放之势；
 ```
 が「小悪魔リリムリリィちゃんが　スーパーファミコンのゲームだったときのポスターを考えて」に　画像数枚だけで
 このクオリティ　細かい説明呪文なし　すごいぜ！
+```
+
+<!-- Vaka 22: Chengdu Yemek Haritasi Illustrasyonu (by @Panda20230902) -->
+### Vaka 22: [Chengdu Yemek Haritasi Illustrasyonu](https://x.com/Panda20230902/status/2045396918965285111) (by [@Panda20230902](https://x.com/Panda20230902))
+
+| Sonuc |
+| :----: |
+| <img src="https://pbs.twimg.com/media/HGKoqQ9bgAA3wLt.jpg" width="300" alt="Cikti gorseli"> |
+
+**Prompt:**
+
+```
+一张手绘风格的城市美食地图，以成都为主题。画面以鸟瞰视角的手绘简化城市地图为底，标注主要道路和地标但不追求精确比例而是追求可爱的手绘感。地图上分布着 12 个美食地点的精致手绘小插画：春熙路的串串香（一把竹签插着各种食材冒着热气）、宽窄巷子的三大炮（三个糯米团子飞向铜盘）、建设路的蛋烘糕（金黄酥脆正在翻面）、玉林路的火锅（九宫格锅翻滚冒泡）等，每个插画约占地图的 5% 面积，旁边用手写体标注店名和一句推荐语"凌晨两点还在排队的那家"。地图边缘用手绘藤蔓和辣椒装饰形成边框。右下角有一个手绘指南针和图例说明。左上角标题"成都·吃货暴走地图"使用胖圆的手绘美术字配辣椒装饰。整体画风为水彩+彩铅混合的手绘质感，颜色以暖色系（辣椒红、姜黄、翠绿）为主，图片比例 1:1。
+```
+
+<!-- Vaka 24: Bahar Guangzhou Sehir Posteri (by @alanlovelq) -->
+### Vaka 24: [Bahar Guangzhou Sehir Posteri](https://x.com/alanlovelq/status/2045484598487060917) (by [@alanlovelq](https://x.com/alanlovelq))
+
+| Sonuc |
+| :----: |
+| <img src="https://pbs.twimg.com/media/HGMFZP3asAEhQyj.jpg" width="300" alt="Cikti gorseli"> |
+
+**Prompt:**
+
+```
+一张充满新春喜庆氛围但不失高雅格调的 2026 城市宣传海报。
+双重曝光，构图延续了S型的流动感；
+在纯白的纹理背景右下角，一个身穿中国传统服饰的微缩人物正在挥舞着一条长长的红色丝绸舞带，这条红绸在空中舞动，不仅展现出丝绸的柔顺质感，更在向左上方飘动的过程中，奇幻地变形成了一条壮丽的山脉河流。
+在这条"河流"中，叠加了一个有山有海河的广州城市手绘图，国潮，景色尽在眼底，壮阔雄伟，令人震撼。
+广州的地标建筑(广州塔，珠江新城建筑群，珠江, 广州城里古建筑，游轮，白云山）。
+云雾环绕，仙气缥缈，色彩丰富，结构复杂，细节丰富，但因为大面积的留白，画面依然显得清新脱俗，左下角排版着"SPRING 2026"和竖排的宣传语，整体寓意"千年商都，魅力广州"。
+文字排版优美，大方，字迹清晰完整，尺寸9:16。
+```
+
+<!-- Vaka 26: Qiongqi Dogu Estetigi Posteri (by @liyue_ai) -->
+### Vaka 26: [Qiongqi Dogu Estetigi Posteri](https://x.com/liyue_ai/status/2045506567735558336) (by [@liyue_ai](https://x.com/liyue_ai))
+
+| Sonuc |
+| :----: |
+| <img src="https://pbs.twimg.com/media/HGMYmiXa0AA0iZu.jpg" width="300" alt="Cikti gorseli"> |
+
+**Prompt:**
+
+```
+极简主义，新中式风格立体图形设计，图像下端有楷体中国文字："东方美学"，"2026/04/18"，署名 "CHINA"，和"@LIYUE"；
+平整纯白色的亚光质感厚艺术纸上绘充满东方诗意氛围的山水创意画，不规则的撕纸效果；
+中国的神兽：穷奇，身形图案完整，美轮美奂，，线条柔美灵动,眼睛炯炯有神，威严的神态，优雅的姿势，奢华装饰艺术，中国传统纹饰；
+荧光蓝色线条，0.5mm极细金色金属质感勾边，泼白墨大笔触，色彩渲染，红底，蓝色的浪漫诗意视觉；
+冷暖光交织的梦幻唯美场景，强烈的光影对比氛围，花轻舞的时光叙事，东风禅意，画面有大面积留白，框架构图，底部留白，细节清晰。
+```
+
+<!-- Vaka 27: Guangzhou Kagit Kesim Sehir Posteri (by @liyue_ai) -->
+### Vaka 27: [Guangzhou Kagit Kesim Sehir Posteri](https://x.com/liyue_ai/status/2045527750606487877) (by [@liyue_ai](https://x.com/liyue_ai))
+
+| Sonuc |
+| :----: |
+| <img src="https://pbs.twimg.com/media/HGMseVlbMAEe4DS.jpg" width="300" alt="Cikti gorseli"> |
+
+**Prompt:**
+
+```
+以珠江新城现代都市景观为灵感的剪纸艺术，通过精巧的镂空手法在一整幅纸上，立体刻画广州塔、东西双塔等地标建筑与繁华城景。
+所有建筑与元素均以流畅的线条与结构相连，无孤立部分，构成一幅完整的都市画卷。
+画面采用金属箔或光泽纸材质，表面带有细腻的明暗光泽，在光照下呈现柔和的高光与阴影，仿佛被城市灯光轻轻照亮。
+背景以虚化的珠江新城天际线为衬，点缀隐约可见的花城广场与树木轮廓，整体透出现代浪漫的氛围。
+作品中巧妙融入轻盈的蒲公英绒毛或星光般的动态光点，象征梦想与活力在这座新城中飘散飞扬。整体呈现8K超高清视觉，细节丰富，真实而富有艺术感染力。
+```
+
+<!-- Vaka 28: Asiri Perspektif Tipografi Koprusu (by @xpg0970) -->
+### Vaka 28: [Asiri Perspektif Tipografi Koprusu](https://x.com/xpg0970/status/2045560665071579160) (by [@xpg0970](https://x.com/xpg0970))
+
+| Sonuc |
+| :----: |
+| <img src="https://pbs.twimg.com/media/HGNH8hhbAAAPIYe.jpg" width="300" alt="Cikti gorseli"> |
+
+**Prompt:**
+
+```
+①场景 跨海大桥的侧面，dramatic cinematic angle。 巨型 bold sans-serif 文字「___②文字内容 跨海大桥」painted onto the surface of ___③主体物 无，从靠近镜头的前端开始，沿表面向远端 progressively foreshortens 逐渐透视压缩，letterforms conform to surface curvature 贴合物体曲面，surface-integrated not floating。 文字部分区域被 无___④前景遮挡物 无___ occluded and hidden，在间隙中露出， 形成 depth-layering 纵深穿插效果。 Oversized bright yellow + sharp orange outline，extreme perspective distortion aligned to vanishing point。Cinematic lighting, motion blur, poster-grade dynamic integrated typography, modern advertising aesthetics。
+```
+
+<!-- Vaka 31: Hayalimsi Suluboya Editorial Illustrasyon (by @hmontilla_) -->
+### Vaka 31: [Hayalimsi Suluboya Editorial Illustrasyon](https://x.com/hmontilla_/status/2045513933096636575) (by [@hmontilla_](https://x.com/hmontilla_))
+
+| Sonuc |
+| :----: |
+| <img src="https://pbs.twimg.com/media/HGMe7mMXcAArOaA.jpg" width="300" alt="Cikti gorseli"> |
+
+**Prompt:**
+
+```
+Ilustración en acuarela de estilo onírico de [sujeto], con estética impresionista ligera, pinceladas sueltas y lavados translúcidos en tonos [color1] y [color2]. Difuminado suave sobre textura de papel prensado en frío, iluminación delicada, composición limpia, enfoque minimalista, sensación de calma, ligereza y belleza efímera, alta calidad, estilo editorial.
 ```
 ## Karakter Tasarimi Vakalari
 
@@ -459,38 +523,6 @@ Kusさん
 ありがとうございます🤩
 #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️
 ```
-<!-- Vaka 6: Dort Modelli Gercekci Karakter Sayfasi Karsilasmasi (by @yyu_hase) -->
-### Vaka 6: [Dort Modelli Gercekci Karakter Sayfasi Karsilasmasi](https://x.com/yyu_hase/status/2044974930694226075) (by [@yyu_hase](https://x.com/yyu_hase))
-
-| Sonuc |
-| :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/character_case6/output.jpg" width="300" alt="Cikti gorseli"> |
-
-**Prompt:**
-
-```
-をお借りして
-実写風人物（わたし）で4つ対決させました。
-
-▶1枚目：GPTimage2　完璧！
-　ただ好きな物や世界観とか勝手に入れてるｗ
-　小物や生地の素材感まで解説細かい
-▶2枚目：NanoBananaPro　安定
-　1回目はアニメ風に出たから「リアリスティックなシート」にプロンプトを追加。ベルトないけどｗ
-▶3枚目：Seedream5.0light　あれ？
-　1回目で実写出たけど、日本語崩れ＆表情差分が1つショートカットｗ
-▶4枚目：Grok(byHiggs)　強制縦型
-　実写はでず、メガネは外れ、アニメタッチ
-
-【結果】
-GPTimage2の画像生成完成度高い！
-表情差分多い所や各解説が動画にした時に
-どう反応するのか？
-NanoBananaProは安定で間違えなし。
-
-このキャラシート使って、私の動画を作成中！
-お楽しみに~🎤
-```
 ## UI ve Sosyal Medya Mockup Vakalari
 
 <!-- Vaka 1: Tek Promptla UI Tasarim Uretimi (by @austinit) -->
@@ -558,32 +590,6 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 3、生成小红书内容截图，主题：精致女孩背后都有网贷，iPhone尺寸
 4、生成快手内容截图：主题：直播离婚预告，iPhone尺寸
 ```
-<!-- Vaka 6: Dort Promptlu Yaratici Ekran Goruntusu Seti (by @rionaifantasy) -->
-### Vaka 6: [Dort Promptlu Yaratici Ekran Goruntusu Seti](https://x.com/rionaifantasy/status/2045356799751303194) (by [@rionaifantasy](https://x.com/rionaifantasy))
-
-| Sonuc |
-| :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/ui_case6/output.jpg" width="300" alt="Cikti gorseli"> |
-
-**Prompt:**
-
-```
-1、生成特朗普和金正恩在抖音直播间打PK的截图
-
-2、生成不知火舞的小红书主页截图
-
-3、生成图片:
-手写在教室黑板上的出师表全文，真实感的粉笔字迹，晴朗白天用iPhone手机实拍
-
-4、生成图片:
-T-800机器人的淘宝商品详情页，展示:
-机器人的正面侧面背面三视图，
-产品价格，
-产品细节，
-功能和使用场景等
-
-直接在ChatGPT网页版或客户端，选择“创建图片”功能体验即可
-```
 <!-- Vaka 7: Liu Yifei Douyin Canli Yayin Ekran Goruntusu (by @alanblogsooo) -->
 ### Vaka 7: [Liu Yifei Douyin Canli Yayin Ekran Goruntusu](https://x.com/alanblogsooo/status/2044784762594918516) (by [@alanblogsooo](https://x.com/alanblogsooo))
 
@@ -609,6 +615,19 @@ T-800机器人的淘宝商品详情页，展示:
 👍프롬프트 :
 태조 이성계의 X  페이지(위화도 회군을 벌이기 직전- 최영 장군과 서로 디스하는 내용이 담긴 게시글들)을 만들어 주세요.
 gpt-image-2
+```
+
+<!-- Vaka 25: Muze Tarzi Hanfu Parca Analiz Infografigi (by @MrLarus) -->
+### Vaka 25: [Muze Tarzi Hanfu Parca Analiz Infografigi](https://x.com/MrLarus/status/2045475209889863931) (by [@MrLarus](https://x.com/MrLarus))
+
+| Sonuc |
+| :----: |
+| <img src="https://pbs.twimg.com/media/HGL2wUdbwAAg6iE.jpg" width="300" alt="Cikti gorseli"> |
+
+**Prompt:**
+
+```
+请生成一张博物馆图鉴式拆解信息图，主题为中国传统服饰“汉服”。画面采用米白色宣纸质感背景，整体版式参考高级博物馆展板或古籍图录，中心展示一位身穿完整汉服的古风人物立绘，姿态端正优雅，服饰层次清晰。人物周围以环绕式布局拆解展示汉服各组成部分，如交领、右衽、系带、大袖、下裙、披帛、绣纹、发饰、鞋履等，每一部分配有精致的局部放大图和中文小标题注释，像文物解构图一样详细。版面中加入细致的箭头、编号、小型纹样边框、尺寸标识、布料纹理说明和局部花纹放大，呈现学术性与观赏性兼具的视觉效果。标题使用具有古典韵味的书法字体，写着“汉服形制图鉴”或类似名称，整体色调以淡米色、绛红、黛青、金色为主，具有东方审美和博物馆级设计感。要求信息丰富、排版精美、图文结合、像高质量展览说明图。
 ```
 ## Karsilastirma ve Topluluk Ornekleri
 
@@ -690,18 +709,6 @@ Duct-tape-2 just solved the prompt ONE SHOT
 None of the current sota able to solve in 3 attempts
 Nanobanana Pro 🍌, Nano banana 2🍌 & Gpt-image-1.5
 Prompt : A wooden bookshelf consisting of three shelves: On the top shelf, there should be one book, on the second shelf, there should be three books, and on the bottom shelf, there should be seven books.
-```
-<!-- Vaka 6: Trump ve Biden Oval Office Tokalasmasi (by @signedbywill) -->
-### Vaka 6: [Trump ve Biden Oval Office Tokalasmasi](https://x.com/signedbywill/status/2045013141629845844) (by [@signedbywill](https://x.com/signedbywill))
-
-| Sonuc |
-| :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case6/output.jpg" width="300" alt="Cikti gorseli"> |
-
-**Prompt:**
-
-```
-generate an image of donald trump shaking hands with a confused joe biden as they stand in the oval office
 ```
 <!-- Vaka 7: GPT Image 2 ve Nano Banana 2 Vitrini (by @zerolu_eth) -->
 ### Vaka 7: [GPT Image 2 ve Nano Banana 2 Vitrini](https://x.com/zerolu_eth/status/2044981771641798862) (by [@zerolu_eth](https://x.com/zerolu_eth))
@@ -960,6 +967,45 @@ GPTimage2との組み合わせがかなり良さそうで楽しみ。
 追記：SeeDance 2.0でこのグリッド残り問題、皆さんはどう解消してますか？
 似た現象出てる人や、背景情報を強くする方法のコツあったら教えてください！
 ```
+
+<!-- Vaka 23: Siluet Evren Anlatili Posteri (by @MrLarus) -->
+### Vaka 23: [Siluet Evren Anlatili Posteri](https://x.com/MrLarus/status/2045470294232957258) (by [@MrLarus](https://x.com/MrLarus))
+
+| Sonuc |
+| :----: |
+| <img src="https://pbs.twimg.com/media/HGLySqLbUAA0Eh0.jpg" width="300" alt="Cikti gorseli"> |
+
+**Prompt:**
+
+```
+请生成一张极具故事感和视觉冲击力的海报，采用“剪影宇宙”风格：主体是一个人物的侧脸剪影，剪影内部不是实色，而是一个完整的微型幻想世界。这个世界中包含山川、森林、星空、月亮、漂浮的岛屿、飞鸟、微光河流、古老城堡或神秘旅人，像一个藏在灵魂里的宇宙。整体氛围梦幻、诗意、略带忧伤，光影层次强烈，剪影边缘清晰，内部世界细节丰富，色彩以深蓝、紫色、金色、暮光橙为主，呈现电影海报质感。背景保持极简，可以是纯色渐变或朦胧星云，让视觉焦点集中在剪影中的世界。风格偏向艺术海报 / 书封 / 电影概念海报，画面精致，富有叙事性和象征意味。
+```
+
+<!-- Vaka 29: Lion Camel Ridge Karanlik Mit Sahnesi (by @MANISH1027512) -->
+### Vaka 29: [Lion Camel Ridge Karanlik Mit Sahnesi](https://x.com/MANISH1027512/status/2045574945921736967) (by [@MANISH1027512](https://x.com/MANISH1027512))
+
+| Sonuc |
+| :----: |
+| <img src="https://pbs.twimg.com/media/HGNV7JzWEAAgVtG.jpg" width="300" alt="Cikti gorseli"> |
+
+**Prompt:**
+
+```
+Create a dark mythological cinematic scene inspired by Lion Camel Ridge from Journey to the West. A vast desolate mountain valley under a blood-red stormy sky, filled with jagged black cliffs, ancient ruined temples, drifting ash, and eerie firelight. In the center stands a terrifying demonic king inspired by Chinese folklore, massive and imposing, wearing decayed royal armor with gold details, his silhouette half-shrouded in smoke. Around him, monstrous soldiers and twisted banners move through the haze. The atmosphere is apocalyptic, ancient, and legendary, blending Chinese myth with dark fantasy realism. Volumetric lighting, ultra-detailed textures, cinematic composition, epic scale, ominous red and black palette, realistic clouds, smoke, dust, and dramatic depth.
+```
+
+<!-- Vaka 30: Luks Editorial Kitaplik (by @SRKDAN) -->
+### Vaka 30: [Luks Editorial Kitaplik](https://x.com/SRKDAN/status/2045556941552894426) (by [@SRKDAN](https://x.com/SRKDAN))
+
+| Sonuc |
+| :----: |
+| <img src="https://pbs.twimg.com/media/HGNFkg2bgAAB0QG.jpg" width="300" alt="Cikti gorseli"> |
+
+**Prompt:**
+
+```
+Create a highly realistic editorial-style photograph of a luxurious wooden bookshelf styled in a warm, sophisticated interior. The bookshelf should feature rich walnut wood tones, soft ambient lighting, elegant decor objects, art books, ceramic vases, and subtle golden accents. Composition should feel like an upscale interior design magazine spread, with balanced negative space and a refined aesthetic. Natural shadows, premium materials, shallow depth of field, crisp textures, and cinematic warm color grading. The scene should feel quiet, intellectual, and expensive, like a designer home in an architectural digest photoshoot.
+```
 ## Tesekkur
 
 Bu depo, etkileyici acik prompt koleksiyonlari ve topluluk tarafindan paylasilan GPT-Image-2 deneylerinden ilham almistir.
@@ -971,4 +1017,3 @@ Calismalarini herkese acik sekilde paylasan ve bu vaka incelemelerini mumkun kil
 *Her vakanin orijinal ureticiye atfedildigini garanti edemeyiz. Duzeltilmesi gereken bir sey varsa lutfen bizimle iletisime gecin, guncelleriz.*
 
 Paylasmak istediginiz daha ilginc GPT-Image-2 prompt vakalari varsa bizimle iletisime gecin ve Evolink prompt kutuphanesini genisletmemize yardimci olun.
-

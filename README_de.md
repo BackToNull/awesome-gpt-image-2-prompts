@@ -56,7 +56,6 @@ Wenn dir das nuetzt, gib dem Repository gern einen Star. ⭐
   - [Fall 3: Portraet in einem japanischen Onsen-Ryokan (by @BubbleBrain)](#case-3-japanese-onsen-ryokan-portrait-by-bubblebrain)
   - [Fall 4: Editorial-Portraet mit 35-mm-Blitz (by @BubbleBrain)](#case-4-35mm-flash-editorial-portrait-by-bubblebrain)
   - [Fall 5: Schlafzimmer-Portraet als Spiegel-Selfie (by @Shinning1010)](#case-5-mirror-selfie-bedroom-portrait-by-shinning1010)
-  - [Fall 6: Fashion-Editorial aus niedriger POV-Perspektive (by @BubbleBrain)](#case-6-low-angle-pov-fashion-editorial-by-bubblebrain)
   - [Fall 7: Glamour-Beauty-Portraet im Luxusstil (by @patrickassale)](#case-7-luxury-glam-beauty-portrait-by-patrickassale)
   - [Fall 8: 9:16-Cosplayer-Portraet als Screenshot (by @Zoulinshen)](#case-8-916-cosplayer-portrait-screenshot-by-zoulinshen)
 - [Poster- und Illustrations-Faelle](#poster-und-illustrations-faelle)
@@ -65,33 +64,36 @@ Wenn dir das nuetzt, gib dem Repository gern einen Star. ⭐
   - [Fall 3: Illustration einer Chengdu-Food-Map (by @Panda20230902)](#case-3-chengdu-food-map-illustration-by-panda20230902)
   - [Fall 4: Chinesisches minimalistisches S-Poster (by @liyue_ai)](#case-4-chinese-minimalist-s-shaped-poster-by-liyue_ai)
   - [Fall 5: Guangzhou-Stadtposter Fruehling 2026 (by @liyue_ai)](#case-5-2026-spring-guangzhou-city-poster-by-liyue_ai)
-  - [Fall 6: Kreative Kalligrafie-Typografie (by @liyue_ai)](#case-6-creative-calligraphy-typography-by-liyue_ai)
   - [Fall 7: AI-Builder im Doodle-Skizzenstil (by @blanplan)](#case-7-doodle-sketch-ai-builder-by-blanplan)
   - [Fall 8: Futuristische Mandala-Illustration (by @4WEB1)](#case-8-futuristic-mandala-illustration-by-4web1)
   - [Fall 9: Poster-Stil im Super-Famicom-Look (by @lilimliliychan)](#case-9-super-famicom-poster-style-by-lilimliliychan)
+  - [Fall 22: Illustration einer Chengdu-Food-Map (by @Panda20230902)](#case-22-chengdu-food-map-illustration-by-panda20230902)
+  - [Fall 24: Stadtposter Guangzhou im Fruehling (by @alanlovelq)](#case-24-spring-guangzhou-city-poster-by-alanlovelq)
+  - [Fall 26: Poster Qiongqi in oestlicher Aesthetik (by @liyue_ai)](#case-26-qiongqi-eastern-aesthetics-poster-by-liyue_ai)
+  - [Fall 27: Guangzhou-Stadtposter im Scherenschnittstil (by @liyue_ai)](#case-27-guangzhou-paper-cut-city-poster-by-liyue_ai)
+  - [Fall 28: Typografie-Bruecke mit extremer Perspektive (by @xpg0970)](#case-28-extreme-perspective-typography-bridge-by-xpg0970)
+  - [Fall 31: Vertraeumte Aquarell-Editorial-Illustration (by @hmontilla_)](#case-31-dreamy-watercolor-editorial-illustration-by-hmontilla_)
 - [Faelle zum Charakterdesign](#faelle-zum-charakterdesign)
   - [Fall 1: Umwandlung in einen Anime-Schnappschuss (by @Thereallo1026)](#case-1-anime-snapshot-conversion-by-thereallo1026)
   - [Fall 2: Persona5-Referenzkarte fuer einen Charakter (by @iamrednightS)](#case-2-persona5-character-reference-card-by-iamrednights)
   - [Fall 3: Charaktervorstellungsseite im Galgame-Stil (by @09lyco)](#case-3-gal-game-character-introduction-page-by-09lyco)
   - [Fall 4: Referenzblatt fuer einen Chibi-Charakter (by @tsubaki_ew)](#case-4-chibi-character-reference-sheet-by-tsubaki_ew)
   - [Fall 5: Offizielles Charakterblatt (JP) (by @Toshi_nyaruo_AI)](#case-5-official-character-sheet-jp-by-toshi_nyaruo_ai)
-  - [Fall 6: Realistisches Charakterblatt-Duell mit vier Modellen (by @yyu_hase)](#case-6-four-model-realistic-character-sheet-battle-by-yyu_hase)
 - [UI- und Social-Media-Mockup-Faelle](#ui-und-social-media-mockup-faelle)
   - [Fall 1: UI-Design-Generierung mit nur einem Prompt (by @austinit)](#case-1-one-prompt-ui-design-generation-by-austinit)
   - [Fall 2: Amateurhaftes iPhone-Keynote-Foto (by @patrickassale)](#case-2-amateur-iphone-keynote-snapshot-by-patrickassale)
   - [Fall 3: Foto eines handschriftlichen Notizbuchs (by @patrickassale)](#case-3-handwritten-notebook-photo-by-patrickassale)
   - [Fall 4: Social-Media-Feed aus der Song-Dynastie (by @Panda20230902)](#case-4-song-dynasty-social-media-feed-by-panda20230902)
   - [Fall 5: Content-Screenshots fuer mehrere Plattformen (by @MrLarus)](#case-5-multi-platform-content-screenshots-by-mrlarus)
-  - [Fall 6: Kreatives Screenshot-Set mit vier Prompts (by @rionaifantasy)](#case-6-four-prompt-creative-screenshot-set-by-rionaifantasy)
   - [Fall 7: Douyin-Livestream-Screenshot mit Liu Yifei (by @alanblogsooo)](#case-7-liu-yifei-douyin-livestream-screenshot-by-alanblogsooo)
   - [Fall 8: X-Seite von Koenig Taejo Yi Seong-gye (by @SKA_Neotype)](#case-8-king-taejo-yi-seong-gyes-x-page-by-ska_neotype)
+  - [Fall 25: Hanfu-Infografik im Museumsstil mit Aufschluesselung (by @MrLarus)](#case-25-museum-style-hanfu-breakdown-infographic-by-mrlarus)
 - [Vergleiche und Community-Beispiele](#vergleiche-und-community-beispiele)
   - [Fall 1: Modellvergleich: GPT Image 2 vs Nano Banana 2 (by @desds1678)](#case-1-model-comparison-gpt-image-2-vs-nano-banana-2-by-desds1678)
   - [Fall 2: Direktes Regiefuehren auf dem Referenzframe (by @samifox_ai)](#case-2-direct-on-reference-frame-directing-by-samifox_ai)
   - [Fall 3: Szenenregie mit Referenzframe (by @HuliJason)](#case-3-reference-frame-scene-direction-by-hulijason)
   - [Fall 4: Showcase zum Launch von GPT-Image-2 (by @MikelEcheve)](#case-4-gpt-image-2-launch-showcase-by-mikelecheve)
   - [Fall 5: Prompt-Test mit einem Holzregal (by @chetaslua)](#case-5-wooden-bookshelf-prompt-test-by-chetaslua)
-  - [Fall 6: Trump und Biden beim Handschlag im Oval Office (by @signedbywill)](#case-6-trump-biden-oval-office-handshake-by-signedbywill)
   - [Fall 7: Showcase GPT Image 2 vs Nano Banana 2 (by @zerolu_eth)](#case-7-gpt-image-2-vs-nano-banana-2-showcase-by-zerolu_eth)
   - [Fall 8: Arena-Test fuer den ersten Eindruck (by @Cheney_NehcOal)](#case-8-arena-first-impression-test-by-cheney_nehcoal)
   - [Fall 9: Glatzenfoto-Test mit Prompt-Wechsel (by @cnzoecomeback)](#case-9-prompt-swap-bald-photo-test-by-cnzoecomeback)
@@ -107,6 +109,9 @@ Wenn dir das nuetzt, gib dem Repository gern einen Star. ⭐
   - [Fall 19: MAI-Image-2 vs GPT vs Nano Banana Pro (by @old_pgmrs_will)](#case-19-mai-image-2-vs-gpt-vs-nano-banana-pro-by-old_pgmrs_will)
   - [Fall 20: Showcase fuer Whiteboard-Zeichnungen (by @jrpj2010)](#case-20-whiteboard-drawing-showcase-by-jrpj2010)
   - [Fall 21: Kombination aus SeeDance 2.0 und GPT-Image-2 (by @CEs7J0Mfn8x37k5)](#case-21-seedance-20-gpt-image-2-combo-by-ces7j0mfn8x37k5)
+  - [Fall 23: Narratives Poster mit Silhouetten-Universum (by @MrLarus)](#case-23-silhouette-universe-narrative-poster-by-mrlarus)
+  - [Fall 29: Dunkle Mythenszene am Loewen-Kamel-Grat (by @MANISH1027512)](#case-29-lion-camel-ridge-dark-myth-scene-by-manish1027512)
+  - [Fall 30: Luxurioeses Editorial-Buecherregal (by @SRKDAN)](#case-30-luxury-editorial-bookshelf-by-srkdan)
 - [Danksagungen](#danksagungen)
 
 ## Portraet- und Fotografie-Faelle
@@ -171,22 +176,6 @@ Generate a cinematic minimal portrait of a solitary man standing in an intense o
 ```
 A stunning 18-year-old Chinese girl with a youthful, pure face and realistic skin texture, sitting on a cozy, slightly messy bed in her bedroom. She is taking a mirror selfie with a smartphone, capturing a natural and intimate moment. Wearing casual gray loungewear and neat white crew socks. Soft natural light (golden hour) streams in from a side window, creating a warm, moody, and cinematic atmosphere. 35mm lens, sharp focus on the subject in the mirror, depth of field with a beautifully blurred background (bokeh). Photorealistic, 8K, high resolution, studio quality, masterpiece.
 Negative Prompts: no extra limbs, no deformed hands, no blur, no noise, no watermark, no text, no cartoon/anime style. Aspect Ratio: 3:4.
-```
-<!-- Fall 6: Fashion-Editorial aus niedriger POV-Perspektive (by @BubbleBrain) -->
-### Fall 6: [Fashion-Editorial aus niedriger POV-Perspektive](https://x.com/BubbleBrain/status/2044705257004093537) (by [@BubbleBrain](https://x.com/BubbleBrain))
-
-| Ergebnis |
-| :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/portrait_case6/output.jpg" width="300" alt="Ergebnisbild"> |
-
-**Prompt:**
-
-```
-Analog 35mm film photography, high-fashion editorial portrait with intense on-camera direct flash (CCD hard flash style), intimate low-angle POV shot from slightly below (仰拍, around +15° upward angle), emphasizing long legs and elegant hourglass body proportions, 4:3 vertical format, 3/4 body shot, early 20s Korean idol-type young woman with delicate refined features, slightly upturned almond-shaped fox eyes, small sharp jawline, flawless porcelain skin with cool ivory undertone and visible specular highlights from direct flash, soft coral blush, natural dusty rose lips slightly parted, long naturally wavy dark brown hair with loose strands framing the face, wearing a slightly tilted black police peaked cap with silver badge.
-She wears a fitted, stylish policewoman-inspired outfit: black short-sleeved collared crop top with shiny silver buttons and epaulets, a shiny silver police badge pinned on the chest, a thin black necktie loosely hanging at the front, a wide black duty belt with a silver buckle and handcuffs at the side, and a short black pleated mini skirt. Black thigh-high stockings and white low-top canvas sneakers with loose lacing add a casual contrast.
-Pose: a subtle S-curve stance with weight shifted to one leg, hips angled slightly toward the camera to enhance silhouette and leg length. One hand lightly touches the cap brim or rests near the waist, while the other hand is placed at the hip or near the belt. Head tilted slightly down with a confident, self-assured upward gaze through lashes directed at the viewer, expression poised, cool, and subtly playful rather than overtly seductive.
-Harsh on-camera direct flash from front/slightly above creates strong catchlights, sharp shadows behind the subject, crisp highlights on skin, hair, badge, belt buckle, and fabric textures. Cold flash quality mixed with warm ambient window light, visible flash fall-off, Kodak Portra 400 film simulation pushed for strong analog character, warm peachy skin tones with flash highlights, subtle cyan shadows, prominent heavy analog film grain (strength 0.65, larger grain size), noticeable film halation around bright areas, strong natural vignette, slight underexposure for a raw intimate mood.
-Ultra-realistic photorealistic film photography, edgy magazine editorial aesthetic, visible fabric texture and reflective metal details, delicate hair strands glowing from flash, natural skin texture with heavy film grain throughout, no plastic skin, no digital sharpness, no airbrushing, no watermark, no text, authentic 35mm film look with strong grain and flash artifacts, analog color grading.
 ```
 <!-- Fall 7: Glamour-Beauty-Portraet im Luxusstil (by @patrickassale) -->
 ### Fall 7: [Glamour-Beauty-Portraet im Luxusstil](https://x.com/patrickassale/status/2044581766309060765) (by [@patrickassale](https://x.com/patrickassale))
@@ -292,24 +281,6 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 云雾环绕，仙气缥缈，色彩丰富，结构复杂，细节丰富，但因为大面积的留白，画面依然显得清新脱俗，左下角排版着“SPRING 2026”和竖排的宣传语，整体寓意“千年商都，魅力广州”。
 文字排版优美，大方，字迹清晰完整，尺寸9:16。
 ```
-<!-- Fall 6: Kreative Kalligrafie-Typografie (by @liyue_ai) -->
-### Fall 6: [Kreative Kalligrafie-Typografie](https://x.com/liyue_ai/status/2045328856937312549) (by [@liyue_ai](https://x.com/liyue_ai))
-
-| Ergebnis |
-| :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/poster_case6/output.jpg" width="300" alt="Ergebnisbild"> |
-
-**Prompt:**
-
-```
-创意艺术字体“纵有疾风起”，秀丽笔手写风格，整体文字横版排列，具有强烈视觉冲击力；
-深度融合手写书法笔意，笔触带毛笔书写的粗犷洒脱，如挥毫泼墨的肆意劲道；
-起收笔的飞白，顿挫，尽显促销的火爆张力，文字的形态打破规整，笔画的粗细变化；
-dutch angle，营造出动感冲刺的气势，字形呈奔放之势；
-重心上扬如蓄势待发，笔画的伸展，穿插毫无拘束，似全力冲刺的劲道；
-整体架构疏密交织，紧密处如促销热潮的汹涌，留白处似优惠间隙的呼吸感；
-纯净黑色背景打底，完美契合热烈氛围，艺术字的形态与色彩酣畅传递。
-```
 <!-- Fall 7: AI-Builder im Doodle-Skizzenstil (by @blanplan) -->
 ### Fall 7: [AI-Builder im Doodle-Skizzenstil](https://x.com/blanplan/status/2045190582453350748) (by [@blanplan](https://x.com/blanplan))
 
@@ -354,6 +325,97 @@ dutch angle，营造出动感冲刺的气势，字形呈奔放之势；
 ```
 が「小悪魔リリムリリィちゃんが　スーパーファミコンのゲームだったときのポスターを考えて」に　画像数枚だけで
 このクオリティ　細かい説明呪文なし　すごいぜ！
+```
+<!-- Fall 22: Illustration einer Chengdu-Food-Map (by @Panda20230902) -->
+### Fall 22: [Illustration einer Chengdu-Food-Map](https://x.com/Panda20230902/status/2045396918965285111) (by [@Panda20230902](https://x.com/Panda20230902))
+
+| Ergebnis |
+| :----: |
+| <img src="https://pbs.twimg.com/media/HGKoqQ9bgAA3wLt.jpg" width="300" alt="Ergebnisbild"> |
+
+**Prompt:**
+
+```
+一张手绘风格的城市美食地图，以成都为主题。画面以鸟瞰视角的手绘简化城市地图为底，标注主要道路和地标但不追求精确比例而是追求可爱的手绘感。地图上分布着 12 个美食地点的精致手绘小插画：春熙路的串串香（一把竹签插着各种食材冒着热气）、宽窄巷子的三大炮（三个糯米团子飞向铜盘）、建设路的蛋烘糕（金黄酥脆正在翻面）、玉林路的火锅（九宫格锅翻滚冒泡）等，每个插画约占地图的 5% 面积，旁边用手写体标注店名和一句推荐语"凌晨两点还在排队的那家"。地图边缘用手绘藤蔓和辣椒装饰形成边框。右下角有一个手绘指南针和图例说明。左上角标题"成都·吃货暴走地图"使用胖圆的手绘美术字配辣椒装饰。整体画风为水彩+彩铅混合的手绘质感，颜色以暖色系（辣椒红、姜黄、翠绿）为主，图片比例 1:1。
+```
+
+<!-- Fall 24: Stadtposter Guangzhou im Fruehling (by @alanlovelq) -->
+### Fall 24: [Stadtposter Guangzhou im Fruehling](https://x.com/alanlovelq/status/2045484598487060917) (by [@alanlovelq](https://x.com/alanlovelq))
+
+| Ergebnis |
+| :----: |
+| <img src="https://pbs.twimg.com/media/HGMFZP3asAEhQyj.jpg" width="300" alt="Ergebnisbild"> |
+
+**Prompt:**
+
+```
+一张充满新春喜庆氛围但不失高雅格调的 2026 城市宣传海报。
+双重曝光，构图延续了S型的流动感；
+在纯白的纹理背景右下角，一个身穿中国传统服饰的微缩人物正在挥舞着一条长长的红色丝绸舞带，这条红绸在空中舞动，不仅展现出丝绸的柔顺质感，更在向左上方飘动的过程中，奇幻地变形成了一条壮丽的山脉河流。
+在这条“河流”中，叠加了一个有山有海河的广州城市手绘图，国潮，景色尽在眼底，壮阔雄伟，令人震撼。
+广州的地标建筑(广州塔，珠江新城建筑群，珠江, 广州城里古建筑，游轮，白云山）。
+云雾环绕，仙气缥缈，色彩丰富，结构复杂，细节丰富，但因为大面积的留白，画面依然显得清新脱俗，左下角排版着“SPRING 2026”和竖排的宣传语，整体寓意“千年商都，魅力广州”。
+文字排版优美，大方，字迹清晰完整，尺寸9:16。
+```
+
+<!-- Fall 26: Poster Qiongqi in oestlicher Aesthetik (by @liyue_ai) -->
+### Fall 26: [Poster Qiongqi in oestlicher Aesthetik](https://x.com/liyue_ai/status/2045506567735558336) (by [@liyue_ai](https://x.com/liyue_ai))
+
+| Ergebnis |
+| :----: |
+| <img src="https://pbs.twimg.com/media/HGMYmiXa0AA0iZu.jpg" width="300" alt="Ergebnisbild"> |
+
+**Prompt:**
+
+```
+极简主义，新中式风格立体图形设计，图像下端有楷体中国文字：“东方美学”，“2026/04/18”，署名 “CHINA”，和“@LIYUE"；
+平整纯白色的亚光质感厚艺术纸上绘充满东方诗意氛围的山水创意画，不规则的撕纸效果；
+中国的神兽：穷奇，身形图案完整，美轮美奂，，线条柔美灵动,眼睛炯炯有神，威严的神态，优雅的姿势，奢华装饰艺术，中国传统纹饰；
+荧光蓝色线条，0.5mm极细金色金属质感勾边，泼白墨大笔触，色彩渲染，红底，蓝色的浪漫诗意视觉；
+冷暖光交织的梦幻唯美场景，强烈的光影对比氛围，花轻舞的时光叙事，东风禅意，画面有大面积留白，框架构图，底部留白，细节清晰。
+```
+
+<!-- Fall 27: Guangzhou-Stadtposter im Scherenschnittstil (by @liyue_ai) -->
+### Fall 27: [Guangzhou-Stadtposter im Scherenschnittstil](https://x.com/liyue_ai/status/2045527750606487877) (by [@liyue_ai](https://x.com/liyue_ai))
+
+| Ergebnis |
+| :----: |
+| <img src="https://pbs.twimg.com/media/HGMseVlbMAEe4DS.jpg" width="300" alt="Ergebnisbild"> |
+
+**Prompt:**
+
+```
+以珠江新城现代都市景观为灵感的剪纸艺术，通过精巧的镂空手法在一整幅纸上，立体刻画广州塔、东西双塔等地标建筑与繁华城景。
+所有建筑与元素均以流畅的线条与结构相连，无孤立部分，构成一幅完整的都市画卷。
+画面采用金属箔或光泽纸材质，表面带有细腻的明暗光泽，在光照下呈现柔和的高光与阴影，仿佛被城市灯光轻轻照亮。
+背景以虚化的珠江新城天际线为衬，点缀隐约可见的花城广场与树木轮廓，整体透出现代浪漫的氛围。
+作品中巧妙融入轻盈的蒲公英绒毛或星光般的动态光点，象征梦想与活力在这座新城中飘散飞扬。整体呈现8K超高清视觉，细节丰富，真实而富有艺术感染力。
+```
+
+<!-- Fall 28: Typografie-Bruecke mit extremer Perspektive (by @xpg0970) -->
+### Fall 28: [Typografie-Bruecke mit extremer Perspektive](https://x.com/xpg0970/status/2045560665071579160) (by [@xpg0970](https://x.com/xpg0970))
+
+| Ergebnis |
+| :----: |
+| <img src="https://pbs.twimg.com/media/HGNH8hhbAAAPIYe.jpg" width="300" alt="Ergebnisbild"> |
+
+**Prompt:**
+
+```
+①场景 跨海大桥的侧面，dramatic cinematic angle。 巨型 bold sans-serif 文字「___②文字内容 跨海大桥」painted onto the surface of ___③主体物 无，从靠近镜头的前端开始，沿表面向远端 progressively foreshortens 逐渐透视压缩，letterforms conform to surface curvature 贴合物体曲面，surface-integrated not floating。 文字部分区域被 无___④前景遮挡物 无___ occluded and hidden，在间隙中露出， 形成 depth-layering 纵深穿插效果。 Oversized bright yellow + sharp orange outline，extreme perspective distortion aligned to vanishing point。Cinematic lighting, motion blur, poster-grade dynamic integrated typography, modern advertising aesthetics。
+```
+
+<!-- Fall 31: Vertraeumte Aquarell-Editorial-Illustration (by @hmontilla_) -->
+### Fall 31: [Vertraeumte Aquarell-Editorial-Illustration](https://x.com/hmontilla_/status/2045513933096636575) (by [@hmontilla_](https://x.com/hmontilla_))
+
+| Ergebnis |
+| :----: |
+| <img src="https://pbs.twimg.com/media/HGMe7mMXcAArOaA.jpg" width="300" alt="Ergebnisbild"> |
+
+**Prompt:**
+
+```
+Ilustración en acuarela de estilo onírico de [sujeto], con estética impresionista ligera, pinceladas sueltas y lavados translúcidos en tonos [color1] y [color2]. Difuminado suave sobre textura de papel prensado en frío, iluminación delicada, composición limpia, enfoque minimalista, sensación de calma, ligereza y belleza efímera, alta calidad, estilo editorial.
 ```
 ## Faelle zum Charakterdesign
 
@@ -459,38 +521,6 @@ Kusさん
 ありがとうございます🤩
 #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️
 ```
-<!-- Fall 6: Realistisches Charakterblatt-Duell mit vier Modellen (by @yyu_hase) -->
-### Fall 6: [Realistisches Charakterblatt-Duell mit vier Modellen](https://x.com/yyu_hase/status/2044974930694226075) (by [@yyu_hase](https://x.com/yyu_hase))
-
-| Ergebnis |
-| :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/character_case6/output.jpg" width="300" alt="Ergebnisbild"> |
-
-**Prompt:**
-
-```
-をお借りして
-実写風人物（わたし）で4つ対決させました。
-
-▶1枚目：GPTimage2　完璧！
-　ただ好きな物や世界観とか勝手に入れてるｗ
-　小物や生地の素材感まで解説細かい
-▶2枚目：NanoBananaPro　安定
-　1回目はアニメ風に出たから「リアリスティックなシート」にプロンプトを追加。ベルトないけどｗ
-▶3枚目：Seedream5.0light　あれ？
-　1回目で実写出たけど、日本語崩れ＆表情差分が1つショートカットｗ
-▶4枚目：Grok(byHiggs)　強制縦型
-　実写はでず、メガネは外れ、アニメタッチ
-
-【結果】
-GPTimage2の画像生成完成度高い！
-表情差分多い所や各解説が動画にした時に
-どう反応するのか？
-NanoBananaProは安定で間違えなし。
-
-このキャラシート使って、私の動画を作成中！
-お楽しみに~🎤
-```
 ## UI- und Social-Media-Mockup-Faelle
 
 <!-- Fall 1: UI-Design-Generierung mit nur einem Prompt (by @austinit) -->
@@ -558,32 +588,6 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 3、生成小红书内容截图，主题：精致女孩背后都有网贷，iPhone尺寸
 4、生成快手内容截图：主题：直播离婚预告，iPhone尺寸
 ```
-<!-- Fall 6: Kreatives Screenshot-Set mit vier Prompts (by @rionaifantasy) -->
-### Fall 6: [Kreatives Screenshot-Set mit vier Prompts](https://x.com/rionaifantasy/status/2045356799751303194) (by [@rionaifantasy](https://x.com/rionaifantasy))
-
-| Ergebnis |
-| :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/ui_case6/output.jpg" width="300" alt="Ergebnisbild"> |
-
-**Prompt:**
-
-```
-1、生成特朗普和金正恩在抖音直播间打PK的截图
-
-2、生成不知火舞的小红书主页截图
-
-3、生成图片:
-手写在教室黑板上的出师表全文，真实感的粉笔字迹，晴朗白天用iPhone手机实拍
-
-4、生成图片:
-T-800机器人的淘宝商品详情页，展示:
-机器人的正面侧面背面三视图，
-产品价格，
-产品细节，
-功能和使用场景等
-
-直接在ChatGPT网页版或客户端，选择“创建图片”功能体验即可
-```
 <!-- Fall 7: Douyin-Livestream-Screenshot mit Liu Yifei (by @alanblogsooo) -->
 ### Fall 7: [Douyin-Livestream-Screenshot mit Liu Yifei](https://x.com/alanblogsooo/status/2044784762594918516) (by [@alanblogsooo](https://x.com/alanblogsooo))
 
@@ -609,6 +613,33 @@ T-800机器人的淘宝商品详情页，展示:
 👍프롬프트 :
 태조 이성계의 X  페이지(위화도 회군을 벌이기 직전- 최영 장군과 서로 디스하는 내용이 담긴 게시글들)을 만들어 주세요.
 gpt-image-2
+```
+<!-- Fall 25: Hanfu-Infografik im Museumsstil mit Aufschluesselung (by @MrLarus) -->
+### Fall 25: [Hanfu-Infografik im Museumsstil mit Aufschluesselung](https://x.com/MrLarus/status/2045504669401653414) (by [@MrLarus](https://x.com/MrLarus))
+
+| Ergebnis |
+| :----: |
+| <img src="https://pbs.twimg.com/media/HGMWXPObQAAPnA0.jpg" width="300" alt="Ergebnisbild"> |
+
+**Prompt:**
+
+```
+请根据【主题】自动生成一张“博物馆图鉴式中文拆解信息图”。
+
+要求整张图兼具真实写实主视觉、结构拆解、中文标注、材质说明、纹样寓意、色彩含义和核心特征总结。你需要根据【主题】自动判断最合适的主体对象、服饰体系、器物结构、时代风格、关键部件、材质工艺、颜色方案与版式结构，用户无需再提供其他信息。
+
+整体风格应为：国家博物馆展板、历史服饰图鉴、文博专题信息图，而不是普通海报、古风写真、电商详情页或动漫插画。背景采用米白、绢纸白、浅茶色等纸张质感，整体高级、克制、专业、可收藏。
+
+版式固定为：
+- 顶部：中文主标题 + 副标题 + 导语
+- 左侧：结构拆解区，中文引线标注关键部件，并配局部特写
+- 右上：材质 / 工艺 / 质感区，展示真实纹理小样并附说明
+- 右中：纹样 / 色彩 / 寓意区，展示主色板、纹样样本和文化解释
+- 底部：穿着顺序 / 构成流程图 + 核心特征总结
+
+若主题适合人物展示，则以真实人物全身站姿为中央主体；若更适合器物或单体结构，则改为中心主体拆解图，但整体仍保持完整中文信息图形式。所有文字必须为简体中文，清晰、规整、可读，不要乱码、错字、英文或拼音。重点突出真实结构、材质差异、文化说明与图鉴气质。
+
+避免：海报感、影楼感、电商感、动漫感、cosplay感、乱标注、错结构、糊字、假材质、过度装饰。
 ```
 ## Vergleiche und Community-Beispiele
 
@@ -690,18 +721,6 @@ Duct-tape-2 just solved the prompt ONE SHOT
 None of the current sota able to solve in 3 attempts
 Nanobanana Pro 🍌, Nano banana 2🍌 & Gpt-image-1.5
 Prompt : A wooden bookshelf consisting of three shelves: On the top shelf, there should be one book, on the second shelf, there should be three books, and on the bottom shelf, there should be seven books.
-```
-<!-- Fall 6: Trump und Biden beim Handschlag im Oval Office (by @signedbywill) -->
-### Fall 6: [Trump und Biden beim Handschlag im Oval Office](https://x.com/signedbywill/status/2045013141629845844) (by [@signedbywill](https://x.com/signedbywill))
-
-| Ergebnis |
-| :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="./images/comparison_case6/output.jpg" width="300" alt="Ergebnisbild"> |
-
-**Prompt:**
-
-```
-generate an image of donald trump shaking hands with a confused joe biden as they stand in the oval office
 ```
 <!-- Fall 7: Showcase GPT Image 2 vs Nano Banana 2 (by @zerolu_eth) -->
 ### Fall 7: [Showcase GPT Image 2 vs Nano Banana 2](https://x.com/zerolu_eth/status/2044981771641798862) (by [@zerolu_eth](https://x.com/zerolu_eth))
@@ -961,6 +980,60 @@ GPTimage2との組み合わせがかなり良さそうで楽しみ。
 似た現象出てる人や、背景情報を強くする方法のコツあったら教えてください！
 ```
 ## Danksagungen
+<!-- Fall 23: Narratives Poster mit Silhouetten-Universum (by @MrLarus) -->
+### Fall 23: [Narratives Poster mit Silhouetten-Universum](https://x.com/MrLarus/status/2045418028733538620) (by [@MrLarus](https://x.com/MrLarus))
+
+| Ergebnis |
+| :----: |
+| <img src="https://pbs.twimg.com/media/HGLIMdFWwAAVBD9.jpg" width="300" alt="Ergebnisbild"> |
+
+**Prompt:**
+
+```
+请根据【主题：xxx】自动生成一张高审美的“轮廓宇宙 / 收藏版叙事海报”风格作品。不要将画面局限于固定器物或常见容器，不要优先默认瓶子、沙漏、玻璃罩、怀表之类的常规载体，而是由 AI 根据主题自行判断并选择一个最契合、最有象征意义、轮廓最强、最适合承载完整叙事世界的主轮廓载体。这个主轮廓可以是器物、建筑、门、塔、拱门、穹顶、楼梯井、长廊、雕像、侧脸、眼睛、手掌、头骨、羽翼、面具、镜面、王座、圆环、裂缝、光幕、阴影、几何结构、空间切面、舞台框景、抽象符号或其他更有创意与主题代表性的视觉轮廓，要求合理布局。优先选择最能放大主题气质、最能形成强烈视觉记忆点、最能体现史诗感、神秘感、诗意感或设计感的轮廓，而不是最安全、最普通、最常见的容器。
+
+画面的核心不是简单把世界装进某个物体里，而是让完整的主题世界自然生长在这个主轮廓之中、之内、之上、之边界里或与其结构融为一体，形成一种“主题宇宙依附于一个象征性轮廓展开”的高级叙事效果。主轮廓必须清晰、优雅、有辨识度，并在整体构图中占据核心地位。轮廓内部或边界中需要自动生成与主题强绑定的完整叙事世界，内容应当丰富、饱满、层次清晰，包括最能代表主题的标志性场景、核心建筑或空间结构、象征符号与隐喻元素、角色关系或文明痕迹、远景中景近景的空间递进、具有命运感和情绪张力的氛围层次，以及门、台阶、桥梁、水面、烟雾、路径、光源、遗迹、机械结构、自然景观、抽象形态、生物或道具等叙事细节。所有元素必须统一、自然、有主次、有层级地融合，像一个完整世界真实孕育在这个轮廓结构之中，而不是简单拼贴、裁切填充、素材堆叠或模板化背景。
+
+整体构图需要具有强烈的收藏版海报气质与高级设计感，大结构稳定，主轮廓强烈明确，内部世界具有纵深、秩序和呼吸感，细节丰富但不拥挤，内容丰满但不杂乱，可以适度加入小比例人物剪影、远处建筑、光柱、门洞、桥、阶梯、回廊、倒影、天光或远景结构来增强尺度感、故事感与史诗感。整体画面要安静、宏大、凝练、富有余味，不要平均铺满，不要廉价热闹，不要无重点堆砌。
+
+风格融合收藏版电影海报构图、高级叙事型视觉设计、梦幻水彩质感与纸张印刷品气质，强调纸张颗粒感、边缘飞白、水彩刷痕、轻微晕染、空气透视、柔和雾化、局部体积光、光雾穿透、大面积留白与克制版式，让画面看起来像设计师完成的高端收藏版视觉作品，而不是普通 AI 跑图。整体气质要高级、诗意、宏大、神圣、怀旧、安静、具有传说感和叙事感。
+
+色彩由 AI 根据主题自动判断并匹配最合适的高级配色方案，但必须保持统一、克制、耐看、低饱和、高级，不要杂乱高饱和，不要廉价霓虹感，不要塑料数码感。配色可以围绕黑金灰、冷蓝灰、雾白灰、褐红米白、暗铜、旧纸色、深海蓝、暮色紫、银灰等体系自由变化，但必须始终服务主题，并保持海报级审美与整体和谐。
+
+最终要求：第一眼有强烈的主题识别度和轮廓记忆点，第二眼有完整丰富的叙事世界，第三眼仍有细节和余味。轮廓选择必须具有创意和主题匹配度，尽量避免重复、保守、常见的容器套路，优先选择更有象征性、更有空间感、更有设计潜力的轮廓形式。不要普通背景拼接，不要生硬裁切，不要模板化奇幻素材，不要游戏宣传图感，不要过度卡通化，不要过度写实导致失去艺术感，不要形式大于内容。如果合适，可以自然加入低调克制的标题、编号、签名或落款，让它更像收藏版海报设计的一部分，但不要喧宾夺主。
+```
+
+<!-- Fall 29: Dunkle Mythenszene am Loewen-Kamel-Grat (by @MANISH1027512) -->
+### Fall 29: [Dunkle Mythenszene am Loewen-Kamel-Grat](https://x.com/MANISH1027512/status/2045743158860878312) (by [@MANISH1027512](https://x.com/MANISH1027512))
+
+| Ergebnis |
+| :----: |
+| <img src="https://pbs.twimg.com/media/HGPvYyCaYAAAkeN.jpg" width="300" alt="Ergebnisbild"> |
+
+**Prompt:**
+
+```
+中式怪异，黑暗神秘风格融合中式美学，完美细节，多重管线渲染，完美建模。西游记背景，狮驼岭，千妖万怪，坐在左边巨大王座上的大象王重甲妖精，坐在中间巨大王座上的狮王重甲妖精，坐在右边巨大王座上大鹏鸟王重甲妖精。渺小的背对镜头孙悟空肩抗金箍棒步行前进，孙悟空身穿铠甲，近地仰拍镜头，长焦镜头，强烈阴影。极致细节刻画，多次修改，正确透视和主体线条，精致细节
+```
+
+<!-- Fall 30: Luxurioeses Editorial-Buecherregal (by @SRKDAN) -->
+### Fall 30: [Luxurioeses Editorial-Buecherregal](https://x.com/SRKDAN/status/2045683829700964821) (by [@SRKDAN](https://x.com/SRKDAN))
+
+| Ergebnis |
+| :----: |
+| Output preview unavailable |
+
+**Prompt:**
+
+```
+PHASE 1, SCENE SETUP: Q1 marble counter with warm sunlight, scattered typography books, matte pen, coffee. Q2 dark oak shelving with gallery light, art deco frame, minimal. Q3 natural wood bench outdoor, woven basket, green foliage. Q4 luxury bathroom vanity, mirror, ceramic vessel, dried flowers.
+
+PHASE 2, PALETTE: Q1 warm golds and creams, Q2 charcoal and brass, Q3 sage green and natural wood, Q4 soft mauve and whites.
+
+PHASE 3, LIGHTING: Q1 golden hour window shadows, Q2 dramatic gallery spots, Q3 dappled leaf light, Q4 moody bathroom light.
+
+PHASE 4, MOOD: Q1 luxury lifestyle, Q2 editorial art, Q3 natural and organic, Q4 spa and intimate.
+```
 
 Dieses Repository ist von hervorragenden Open-Source-Prompt-Sammlungen und von in der Community geteilten GPT-Image-2-Experimenten inspiriert.
 
@@ -971,4 +1044,3 @@ Danke an die Creator und Mitwirkenden, die ihre Arbeiten oeffentlich geteilt und
 *Wir koennen nicht garantieren, dass jeder Fall dem urspruenglichen Creator korrekt zugeordnet ist. Wenn etwas korrigiert werden muss, kontaktiere uns bitte, und wir aktualisieren es zeitnah.*
 
 Wenn du weitere interessante GPT-Image-2-Prompt-Faelle teilen moechtest, melde dich gern bei uns und hilf dabei, die Evolink-Prompt-Bibliothek zu erweitern.
-

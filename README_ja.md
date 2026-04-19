@@ -43,6 +43,7 @@ Evolink で試す: [GPT-Image-2](https://evolink.ai/models?utm_source=github&utm
 
 ## News
 
+- **2026年4月19日:** ポスター・UI・比較カテゴリに GPT-Image-2 プロンプトを 10 件追加
 - **2026年4月18日:** キュレーション済み GPT-Image-2 事例集の初回リリース
 
 ## Menu
@@ -67,6 +68,12 @@ Evolink で試す: [GPT-Image-2](https://evolink.ai/models?utm_source=github&utm
   - [Case 7: Doodle Sketch AI Builder (by @blanplan)](#case-7-doodle-sketch-ai-builder-by-blanplan)
   - [Case 8: Futuristic Mandala Illustration (by @4WEB1)](#case-8-futuristic-mandala-illustration-by-4web1)
   - [Case 9: Super Famicom Poster Style (by @lilimliliychan)](#case-9-super-famicom-poster-style-by-lilimliliychan)
+  - [Case 22: Chengdu Food Map Illustration (by @Panda20230902)](#case-22-chengdu-food-map-illustration-by-panda20230902)
+  - [Case 24: Spring Guangzhou City Poster (by @alanlovelq)](#case-24-spring-guangzhou-city-poster-by-alanlovelq)
+  - [Case 26: Qiongqi Eastern Aesthetics Poster (by @liyue_ai)](#case-26-qiongqi-eastern-aesthetics-poster-by-liyue_ai)
+  - [Case 27: Guangzhou Paper-Cut City Poster (by @liyue_ai)](#case-27-guangzhou-paper-cut-city-poster-by-liyue_ai)
+  - [Case 28: Extreme Perspective Typography Bridge (by @xpg0970)](#case-28-extreme-perspective-typography-bridge-by-xpg0970)
+  - [Case 31: Dreamy Watercolor Editorial Illustration (by @hmontilla_)](#case-31-dreamy-watercolor-editorial-illustration-by-hmontilla_)
 - [キャラクターデザイン事例](#character-design-cases)
   - [Case 1: Anime Snapshot Conversion (by @Thereallo1026)](#case-1-anime-snapshot-conversion-by-thereallo1026)
   - [Case 2: Persona5 Character Reference Card (by @iamrednightS)](#case-2-persona5-character-reference-card-by-iamrednights)
@@ -81,6 +88,7 @@ Evolink で試す: [GPT-Image-2](https://evolink.ai/models?utm_source=github&utm
   - [Case 5: Multi-Platform Content Screenshots (by @MrLarus)](#case-5-multi-platform-content-screenshots-by-mrlarus)
   - [Case 7: Liu Yifei Douyin Livestream Screenshot (by @alanblogsooo)](#case-7-liu-yifei-douyin-livestream-screenshot-by-alanblogsooo)
   - [Case 8: King Taejo Yi Seong-gye's X Page (by @SKA_Neotype)](#case-8-king-taejo-yi-seong-gyes-x-page-by-ska_neotype)
+  - [Case 25: Museum-Style Hanfu Breakdown Infographic (by @MrLarus)](#case-25-museum-style-hanfu-breakdown-infographic-by-mrlarus)
 - [比較・コミュニティ事例](#comparison-community-examples)
   - [Case 1: Model Comparison: GPT Image 2 vs Nano Banana 2 (by @desds1678)](#case-1-model-comparison-gpt-image-2-vs-nano-banana-2-by-desds1678)
   - [Case 2: Direct-on-Reference Frame Directing (by @samifox_ai)](#case-2-direct-on-reference-frame-directing-by-samifox_ai)
@@ -102,6 +110,9 @@ Evolink で試す: [GPT-Image-2](https://evolink.ai/models?utm_source=github&utm
   - [Case 19: MAI-Image-2 vs GPT vs Nano Banana Pro (by @old_pgmrs_will)](#case-19-mai-image-2-vs-gpt-vs-nano-banana-pro-by-old_pgmrs_will)
   - [Case 20: Whiteboard Drawing Showcase (by @jrpj2010)](#case-20-whiteboard-drawing-showcase-by-jrpj2010)
   - [Case 21: SeeDance 2.0 + GPT-Image-2 Combo (by @CEs7J0Mfn8x37k5)](#case-21-seedance-20-gpt-image-2-combo-by-ces7j0mfn8x37k5)
+  - [Case 23: Silhouette Universe Narrative Poster (by @MrLarus)](#case-23-silhouette-universe-narrative-poster-by-mrlarus)
+  - [Case 29: Lion Camel Ridge Dark Myth Scene (by @MANISH1027512)](#case-29-lion-camel-ridge-dark-myth-scene-by-manish1027512)
+  - [Case 30: Luxury Editorial Bookshelf (by @SRKDAN)](#case-30-luxury-editorial-bookshelf-by-srkdan)
 - [Acknowledge](#acknowledge)
 
 ## Portrait & Photography Cases
@@ -318,6 +329,98 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 が「小悪魔リリムリリィちゃんが　スーパーファミコンのゲームだったときのポスターを考えて」に　画像数枚だけで
 このクオリティ　細かい説明呪文なし　すごいぜ！
 ```
+
+<!-- Case 22: Chengdu Food Map Illustration (by @Panda20230902) -->
+### Case 22: [Chengdu Food Map Illustration](https://x.com/Panda20230902/status/2045396918965285111) (by [@Panda20230902](https://x.com/Panda20230902))
+
+| 出力 |
+| :----: |
+| <img src="https://pbs.twimg.com/media/HGKoqQ9bgAA3wLt.jpg" width="300" alt="出力画像"> |
+
+**プロンプト:**
+
+```
+一张手绘风格的城市美食地图，以成都为主题。画面以鸟瞰视角的手绘简化城市地图为底，标注主要道路和地标但不追求精确比例而是追求可爱的手绘感。地图上分布着 12 个美食地点的精致手绘小插画：春熙路的串串香（一把竹签插着各种食材冒着热气）、宽窄巷子的三大炮（三个糯米团子飞向铜盘）、建设路的蛋烘糕（金黄酥脆正在翻面）、玉林路的火锅（九宫格锅翻滚冒泡）等，每个插画约占地图的 5% 面积，旁边用手写体标注店名和一句推荐语"凌晨两点还在排队的那家"。地图边缘用手绘藤蔓和辣椒装饰形成边框。右下角有一个手绘指南针和图例说明。左上角标题"成都·吃货暴走地图"使用胖圆的手绘美术字配辣椒装饰。整体画风为水彩+彩铅混合的手绘质感，颜色以暖色系（辣椒红、姜黄、翠绿）为主，图片比例 1:1。
+```
+
+<!-- Case 24: Spring Guangzhou City Poster (by @alanlovelq) -->
+### Case 24: [Spring Guangzhou City Poster](https://x.com/alanlovelq/status/2045484598487060917) (by [@alanlovelq](https://x.com/alanlovelq))
+
+| 出力 |
+| :----: |
+| <img src="https://pbs.twimg.com/media/HGMFZP3asAEhQyj.jpg" width="300" alt="出力画像"> |
+
+**プロンプト:**
+
+```
+一张充满新春喜庆氛围但不失高雅格调的 2026 城市宣传海报。
+双重曝光，构图延续了S型的流动感；
+在纯白的纹理背景右下角，一个身穿中国传统服饰的微缩人物正在挥舞着一条长长的红色丝绸舞带，这条红绸在空中舞动，不仅展现出丝绸的柔顺质感，更在向左上方飘动的过程中，奇幻地变形成了一条壮丽的山脉河流。
+在这条"河流"中，叠加了一个有山有海河的广州城市手绘图，国潮，景色尽在眼底，壮阔雄伟，令人震撼。
+广州的地标建筑(广州塔，珠江新城建筑群，珠江, 广州城里古建筑，游轮，白云山）。
+云雾环绕，仙气缥缈，色彩丰富，结构复杂，细节丰富，但因为大面积的留白，画面依然显得清新脱俗，左下角排版着"SPRING 2026"和竖排的宣传语，整体寓意"千年商都，魅力广州"。
+文字排版优美，大方，字迹清晰完整，尺寸9:16。
+```
+
+<!-- Case 26: Qiongqi Eastern Aesthetics Poster (by @liyue_ai) -->
+### Case 26: [Qiongqi Eastern Aesthetics Poster](https://x.com/liyue_ai/status/2045506567735558336) (by [@liyue_ai](https://x.com/liyue_ai))
+
+| 出力 |
+| :----: |
+| <img src="https://pbs.twimg.com/media/HGMYmiXa0AA0iZu.jpg" width="300" alt="出力画像"> |
+
+**プロンプト:**
+
+```
+极简主义，新中式风格立体图形设计，图像下端有楷体中国文字："东方美学"，"2026/04/18"，署名 "CHINA"，和"@LIYUE"；
+平整纯白色的亚光质感厚艺术纸上绘充满东方诗意氛围的山水创意画，不规则的撕纸效果；
+中国的神兽：穷奇，身形图案完整，美轮美奂，，线条柔美灵动,眼睛炯炯有神，威严的神态，优雅的姿势，奢华装饰艺术，中国传统纹饰；
+荧光蓝色线条，0.5mm极细金色金属质感勾边，泼白墨大笔触，色彩渲染，红底，蓝色的浪漫诗意视觉；
+冷暖光交织的梦幻唯美场景，强烈的光影对比氛围，花轻舞的时光叙事，东风禅意，画面有大面积留白，框架构图，底部留白，细节清晰。
+```
+
+<!-- Case 27: Guangzhou Paper-Cut City Poster (by @liyue_ai) -->
+### Case 27: [Guangzhou Paper-Cut City Poster](https://x.com/liyue_ai/status/2045527750606487877) (by [@liyue_ai](https://x.com/liyue_ai))
+
+| 出力 |
+| :----: |
+| <img src="https://pbs.twimg.com/media/HGMseVlbMAEe4DS.jpg" width="300" alt="出力画像"> |
+
+**プロンプト:**
+
+```
+以珠江新城现代都市景观为灵感的剪纸艺术，通过精巧的镂空手法在一整幅纸上，立体刻画广州塔、东西双塔等地标建筑与繁华城景。
+所有建筑与元素均以流畅的线条与结构相连，无孤立部分，构成一幅完整的都市画卷。
+画面采用金属箔或光泽纸材质，表面带有细腻的明暗光泽，在光照下呈现柔和的高光与阴影，仿佛被城市灯光轻轻照亮。
+背景以虚化的珠江新城天际线为衬，点缀隐约可见的花城广场与树木轮廓，整体透出现代浪漫的氛围。
+作品中巧妙融入轻盈的蒲公英绒毛或星光般的动态光点，象征梦想与活力在这座新城中飘散飞扬。整体呈现8K超高清视觉，细节丰富，真实而富有艺术感染力。
+```
+
+<!-- Case 28: Extreme Perspective Typography Bridge (by @xpg0970) -->
+### Case 28: [Extreme Perspective Typography Bridge](https://x.com/xpg0970/status/2045560665071579160) (by [@xpg0970](https://x.com/xpg0970))
+
+| 出力 |
+| :----: |
+| <img src="https://pbs.twimg.com/media/HGNH8hhbAAAPIYe.jpg" width="300" alt="出力画像"> |
+
+**プロンプト:**
+
+```
+①场景 跨海大桥的侧面，dramatic cinematic angle。 巨型 bold sans-serif 文字「___②文字内容 跨海大桥」painted onto the surface of ___③主体物 无，从靠近镜头的前端开始，沿表面向远端 progressively foreshortens 逐渐透视压缩，letterforms conform to surface curvature 贴合物体曲面，surface-integrated not floating。 文字部分区域被 无___④前景遮挡物 无___ occluded and hidden，在间隙中露出， 形成 depth-layering 纵深穿插效果。 Oversized bright yellow + sharp orange outline，extreme perspective distortion aligned to vanishing point。Cinematic lighting, motion blur, poster-grade dynamic integrated typography, modern advertising aesthetics。
+```
+
+<!-- Case 31: Dreamy Watercolor Editorial Illustration (by @hmontilla_) -->
+### Case 31: [Dreamy Watercolor Editorial Illustration](https://x.com/hmontilla_/status/2045513933096636575) (by [@hmontilla_](https://x.com/hmontilla_))
+
+| 出力 |
+| :----: |
+| <img src="https://pbs.twimg.com/media/HGMe7mMXcAArOaA.jpg" width="300" alt="出力画像"> |
+
+**プロンプト:**
+
+```
+Ilustración en acuarela de estilo onírico de [sujeto], con estética impresionista ligera, pinceladas sueltas y lavados translúcidos en tonos [color1] y [color2]. Difuminado suave sobre textura de papel prensado en frío, iluminación delicada, composición limpia, enfoque minimalista, sensación de calma, ligereza y belleza efímera, alta calidad, estilo editorial.
+```
 ## Character Design Cases
 
 <!-- Case 1: Anime Snapshot Conversion (by @Thereallo1026) -->
@@ -516,6 +619,19 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 👍프롬프트 :
 태조 이성계의 X  페이지(위화도 회군을 벌이기 직전- 최영 장군과 서로 디스하는 내용이 담긴 게시글들)을 만들어 주세요.
 gpt-image-2
+```
+
+<!-- Case 25: Museum-Style Hanfu Breakdown Infographic (by @MrLarus) -->
+### Case 25: [Museum-Style Hanfu Breakdown Infographic](https://x.com/MrLarus/status/2045475209889863931) (by [@MrLarus](https://x.com/MrLarus))
+
+| 出力 |
+| :----: |
+| <img src="https://pbs.twimg.com/media/HGL2wUdbwAAg6iE.jpg" width="300" alt="出力画像"> |
+
+**プロンプト:**
+
+```
+请生成一张博物馆图鉴式拆解信息图，主题为中国传统服饰“汉服”。画面采用米白色宣纸质感背景，整体版式参考高级博物馆展板或古籍图录，中心展示一位身穿完整汉服的古风人物立绘，姿态端正优雅，服饰层次清晰。人物周围以环绕式布局拆解展示汉服各组成部分，如交领、右衽、系带、大袖、下裙、披帛、绣纹、发饰、鞋履等，每一部分配有精致的局部放大图和中文小标题注释，像文物解构图一样详细。版面中加入细致的箭头、编号、小型纹样边框、尺寸标识、布料纹理说明和局部花纹放大，呈现学术性与观赏性兼具的视觉效果。标题使用具有古典韵味的书法字体，写着“汉服形制图鉴”或类似名称，整体色调以淡米色、绛红、黛青、金色为主，具有东方审美和博物馆级设计感。要求信息丰富、排版精美、图文结合、像高质量展览说明图。
 ```
 ## Comparison & Community Examples
 
@@ -856,6 +972,45 @@ GPTimage2との組み合わせがかなり良さそうで楽しみ。
 追記：SeeDance 2.0でこのグリッド残り問題、皆さんはどう解消してますか？
 似た現象出てる人や、背景情報を強くする方法のコツあったら教えてください！
 ```
+
+<!-- Case 23: Silhouette Universe Narrative Poster (by @MrLarus) -->
+### Case 23: [Silhouette Universe Narrative Poster](https://x.com/MrLarus/status/2045470294232957258) (by [@MrLarus](https://x.com/MrLarus))
+
+| 出力 |
+| :----: |
+| <img src="https://pbs.twimg.com/media/HGLySqLbUAA0Eh0.jpg" width="300" alt="出力画像"> |
+
+**プロンプト:**
+
+```
+请生成一张极具故事感和视觉冲击力的海报，采用“剪影宇宙”风格：主体是一个人物的侧脸剪影，剪影内部不是实色，而是一个完整的微型幻想世界。这个世界中包含山川、森林、星空、月亮、漂浮的岛屿、飞鸟、微光河流、古老城堡或神秘旅人，像一个藏在灵魂里的宇宙。整体氛围梦幻、诗意、略带忧伤，光影层次强烈，剪影边缘清晰，内部世界细节丰富，色彩以深蓝、紫色、金色、暮光橙为主，呈现电影海报质感。背景保持极简，可以是纯色渐变或朦胧星云，让视觉焦点集中在剪影中的世界。风格偏向艺术海报 / 书封 / 电影概念海报，画面精致，富有叙事性和象征意味。
+```
+
+<!-- Case 29: Lion Camel Ridge Dark Myth Scene (by @MANISH1027512) -->
+### Case 29: [Lion Camel Ridge Dark Myth Scene](https://x.com/MANISH1027512/status/2045574945921736967) (by [@MANISH1027512](https://x.com/MANISH1027512))
+
+| 出力 |
+| :----: |
+| <img src="https://pbs.twimg.com/media/HGNV7JzWEAAgVtG.jpg" width="300" alt="出力画像"> |
+
+**プロンプト:**
+
+```
+Create a dark mythological cinematic scene inspired by Lion Camel Ridge from Journey to the West. A vast desolate mountain valley under a blood-red stormy sky, filled with jagged black cliffs, ancient ruined temples, drifting ash, and eerie firelight. In the center stands a terrifying demonic king inspired by Chinese folklore, massive and imposing, wearing decayed royal armor with gold details, his silhouette half-shrouded in smoke. Around him, monstrous soldiers and twisted banners move through the haze. The atmosphere is apocalyptic, ancient, and legendary, blending Chinese myth with dark fantasy realism. Volumetric lighting, ultra-detailed textures, cinematic composition, epic scale, ominous red and black palette, realistic clouds, smoke, dust, and dramatic depth.
+```
+
+<!-- Case 30: Luxury Editorial Bookshelf (by @SRKDAN) -->
+### Case 30: [Luxury Editorial Bookshelf](https://x.com/SRKDAN/status/2045556941552894426) (by [@SRKDAN](https://x.com/SRKDAN))
+
+| 出力 |
+| :----: |
+| <img src="https://pbs.twimg.com/media/HGNFkg2bgAAB0QG.jpg" width="300" alt="出力画像"> |
+
+**プロンプト:**
+
+```
+Create a highly realistic editorial-style photograph of a luxurious wooden bookshelf styled in a warm, sophisticated interior. The bookshelf should feature rich walnut wood tones, soft ambient lighting, elegant decor objects, art books, ceramic vases, and subtle golden accents. Composition should feel like an upscale interior design magazine spread, with balanced negative space and a refined aesthetic. Natural shadows, premium materials, shallow depth of field, crisp textures, and cinematic warm color grading. The scene should feel quiet, intellectual, and expensive, like a designer home in an architectural digest photoshoot.
+```
 ## Acknowledge
 
 このリポジトリは、優れたオープンプロンプト集と、コミュニティで共有された GPT-Image-2 実験から着想を得ています。
@@ -867,4 +1022,3 @@ GPTimage2との組み合わせがかなり良さそうで楽しみ。
 ※すべての事例について原作者への帰属が完全であることは保証できません。修正が必要な点があればご連絡ください。更新します。
 
 共有したい興味深い GPT-Image-2 の事例があれば、ぜひご連絡ください。Evolink のプロンプトライブラリ拡充にご協力いただけます。
-

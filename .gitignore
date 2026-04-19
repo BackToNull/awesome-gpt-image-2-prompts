@@ -23,3 +23,6 @@ Thumbs.db
 
 # py
 build_readme.py
+
+# Local change log (not pushed to remote)
+CHANGES_LOCAL.md
