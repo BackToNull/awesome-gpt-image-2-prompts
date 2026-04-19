@@ -102,6 +102,16 @@ If you find this useful, consider giving it a star. ⭐
   - [Case 19: MAI-Image-2 vs GPT vs Nano Banana Pro (by @old_pgmrs_will)](#case-19-mai-image-2-vs-gpt-vs-nano-banana-pro-by-old_pgmrs_will)
   - [Case 20: Whiteboard Drawing Showcase (by @jrpj2010)](#case-20-whiteboard-drawing-showcase-by-jrpj2010)
   - [Case 21: SeeDance 2.0 + GPT-Image-2 Combo (by @CEs7J0Mfn8x37k5)](#case-21-seedance-20-gpt-image-2-combo-by-ces7j0mfn8x37k5)
+- [Case 22: Chengdu Food Map Illustration (by @Panda20230902)](#case-22-chengdu-food-map-illustration-by-panda20230902)
+- [Case 23: Silhouette Universe Narrative Poster (by @MrLarus)](#case-23-silhouette-universe-narrative-poster-by-mrlarus)
+- [Case 24: Spring Guangzhou City Poster (by @alanlovelq)](#case-24-spring-guangzhou-city-poster-by-alanlovelq)
+- [Case 25: Museum-Style Hanfu Breakdown Infographic (by @MrLarus)](#case-25-museum-style-hanfu-breakdown-infographic-by-mrlarus)
+- [Case 26: Qiongqi Eastern Aesthetics Poster (by @liyue_ai)](#case-26-qiongqi-eastern-aesthetics-poster-by-liyue_ai)
+- [Case 27: Guangzhou Paper-Cut City Poster (by @liyue_ai)](#case-27-guangzhou-paper-cut-city-poster-by-liyue_ai)
+- [Case 28: Extreme Perspective Typography Bridge (by @xpg0970)](#case-28-extreme-perspective-typography-bridge-by-xpg0970)
+- [Case 29: Lion Camel Ridge Dark Myth Scene (by @MANISH1027512)](#case-29-lion-camel-ridge-dark-myth-scene-by-manish1027512)
+- [Case 30: Luxury Editorial Bookshelf (by @SRKDAN)](#case-30-luxury-editorial-bookshelf-by-srkdan)
+- [Case 31: Dreamy Watercolor Editorial Illustration (by @hmontilla_)](#case-31-dreamy-watercolor-editorial-illustration-by-hmontilla_)
 - [Acknowledge](#acknowledge)
 
 ## Portrait & Photography Cases
@@ -856,8 +866,8 @@ GPTimage2との組み合わせがかなり良さそうで楽しみ。
 追記：SeeDance 2.0でこのグリッド残り問題、皆さんはどう解消してますか？
 似た現象出てる人や、背景情報を強くする方法のコツあったら教えてください！
 ```
-<!-- Case NEW1: Chengdu Food Map Illustration (by @Panda20230902) -->
-### Case NEW1: [Chengdu Food Map Illustration](https://x.com/Panda20230902/status/2045396918965285111) (by [@Panda20230902](https://x.com/Panda20230902))
+<!-- Case 22: Chengdu Food Map Illustration (by @Panda20230902) -->
+### Case 22: [Chengdu Food Map Illustration](https://x.com/Panda20230902/status/2045396918965285111) (by [@Panda20230902](https://x.com/Panda20230902))
 
 | Output |
 | :----: |
@@ -869,8 +879,8 @@ GPTimage2との組み合わせがかなり良さそうで楽しみ。
 一张手绘风格的城市美食地图，以成都为主题。画面以鸟瞰视角的手绘简化城市地图为底，标注主要道路和地标但不追求精确比例而是追求可爱的手绘感。地图上分布着 12 个美食地点的精致手绘小插画：春熙路的串串香（一把竹签插着各种食材冒着热气）、宽窄巷子的三大炮（三个糯米团子飞向铜盘）、建设路的蛋烘糕（金黄酥脆正在翻面）、玉林路的火锅（九宫格锅翻滚冒泡）等，每个插画约占地图的 5% 面积，旁边用手写体标注店名和一句推荐语"凌晨两点还在排队的那家"。地图边缘用手绘藤蔓和辣椒装饰形成边框。右下角有一个手绘指南针和图例说明。左上角标题"成都·吃货暴走地图"使用胖圆的手绘美术字配辣椒装饰。整体画风为水彩+彩铅混合的手绘质感，颜色以暖色系（辣椒红、姜黄、翠绿）为主，图片比例 1:1。
 ```
 
-<!-- Case NEW2: Silhouette Universe Narrative Poster (by @MrLarus) -->
-### Case NEW2: [Silhouette Universe Narrative Poster](https://x.com/MrLarus/status/2045418028733538620) (by [@MrLarus](https://x.com/MrLarus))
+<!-- Case 23: Silhouette Universe Narrative Poster (by @MrLarus) -->
+### Case 23: [Silhouette Universe Narrative Poster](https://x.com/MrLarus/status/2045418028733538620) (by [@MrLarus](https://x.com/MrLarus))
 
 | Output |
 | :----: |
@@ -892,8 +902,8 @@ GPTimage2との組み合わせがかなり良さそうで楽しみ。
 最终要求：第一眼有强烈的主题识别度和轮廓记忆点，第二眼有完整丰富的叙事世界，第三眼仍有细节和余味。轮廓选择必须具有创意和主题匹配度，尽量避免重复、保守、常见的容器套路，优先选择更有象征性、更有空间感、更有设计潜力的轮廓形式。不要普通背景拼接，不要生硬裁切，不要模板化奇幻素材，不要游戏宣传图感，不要过度卡通化，不要过度写实导致失去艺术感，不要形式大于内容。如果合适，可以自然加入低调克制的标题、编号、签名或落款，让它更像收藏版海报设计的一部分，但不要喧宾夺主。
 ```
 
-<!-- Case NEW5: Spring Guangzhou City Poster (by @alanlovelq) -->
-### Case NEW5: [Spring Guangzhou City Poster](https://x.com/alanlovelq/status/2045484598487060917) (by [@alanlovelq](https://x.com/alanlovelq))
+<!-- Case 24: Spring Guangzhou City Poster (by @alanlovelq) -->
+### Case 24: [Spring Guangzhou City Poster](https://x.com/alanlovelq/status/2045484598487060917) (by [@alanlovelq](https://x.com/alanlovelq))
 
 | Output |
 | :----: |
@@ -911,8 +921,8 @@ GPTimage2との組み合わせがかなり良さそうで楽しみ。
 文字排版优美，大方，字迹清晰完整，尺寸9:16。
 ```
 
-<!-- Case NEW6: Museum-Style Hanfu Breakdown Infographic (by @MrLarus) -->
-### Case NEW6: [Museum-Style Hanfu Breakdown Infographic](https://x.com/MrLarus/status/2045504669401653414) (by [@MrLarus](https://x.com/MrLarus))
+<!-- Case 25: Museum-Style Hanfu Breakdown Infographic (by @MrLarus) -->
+### Case 25: [Museum-Style Hanfu Breakdown Infographic](https://x.com/MrLarus/status/2045504669401653414) (by [@MrLarus](https://x.com/MrLarus))
 
 | Output |
 | :----: |
@@ -939,8 +949,8 @@ GPTimage2との組み合わせがかなり良さそうで楽しみ。
 避免：海报感、影楼感、电商感、动漫感、cosplay感、乱标注、错结构、糊字、假材质、过度装饰。
 ```
 
-<!-- Case NEW7: Qiongqi Eastern Aesthetics Poster (by @liyue_ai) -->
-### Case NEW7: [Qiongqi Eastern Aesthetics Poster](https://x.com/liyue_ai/status/2045506567735558336) (by [@liyue_ai](https://x.com/liyue_ai))
+<!-- Case 26: Qiongqi Eastern Aesthetics Poster (by @liyue_ai) -->
+### Case 26: [Qiongqi Eastern Aesthetics Poster](https://x.com/liyue_ai/status/2045506567735558336) (by [@liyue_ai](https://x.com/liyue_ai))
 
 | Output |
 | :----: |
@@ -956,8 +966,8 @@ GPTimage2との組み合わせがかなり良さそうで楽しみ。
 冷暖光交织的梦幻唯美场景，强烈的光影对比氛围，花轻舞的时光叙事，东风禅意，画面有大面积留白，框架构图，底部留白，细节清晰。
 ```
 
-<!-- Case NEW8: Guangzhou Paper-Cut City Poster (by @liyue_ai) -->
-### Case NEW8: [Guangzhou Paper-Cut City Poster](https://x.com/liyue_ai/status/2045527750606487877) (by [@liyue_ai](https://x.com/liyue_ai))
+<!-- Case 27: Guangzhou Paper-Cut City Poster (by @liyue_ai) -->
+### Case 27: [Guangzhou Paper-Cut City Poster](https://x.com/liyue_ai/status/2045527750606487877) (by [@liyue_ai](https://x.com/liyue_ai))
 
 | Output |
 | :----: |
@@ -973,8 +983,8 @@ GPTimage2との組み合わせがかなり良さそうで楽しみ。
 作品中巧妙融入轻盈的蒲公英绒毛或星光般的动态光点，象征梦想与活力在这座新城中飘散飞扬。整体呈现8K超高清视觉，细节丰富，真实而富有艺术感染力。
 ```
 
-<!-- Case NEW9: Extreme Perspective Typography Bridge (by @xpg0970) -->
-### Case NEW9: [Extreme Perspective Typography Bridge](https://x.com/xpg0970/status/2045560665071579160) (by [@xpg0970](https://x.com/xpg0970))
+<!-- Case 28: Extreme Perspective Typography Bridge (by @xpg0970) -->
+### Case 28: [Extreme Perspective Typography Bridge](https://x.com/xpg0970/status/2045560665071579160) (by [@xpg0970](https://x.com/xpg0970))
 
 | Output |
 | :----: |
@@ -986,8 +996,8 @@ GPTimage2との組み合わせがかなり良さそうで楽しみ。
 ①场景 跨海大桥的侧面，dramatic cinematic angle。 巨型 bold sans-serif 文字「___②文字内容 跨海大桥」painted onto the surface of ___③主体物 无，从靠近镜头的前端开始，沿表面向远端 progressively foreshortens 逐渐透视压缩，letterforms conform to surface curvature 贴合物体曲面，surface-integrated not floating。 文字部分区域被 无___④前景遮挡物 无___ occluded and hidden，在间隙中露出， 形成 depth-layering 纵深穿插效果。 Oversized bright yellow + sharp orange outline，extreme perspective distortion aligned to vanishing point。Cinematic lighting, motion blur, poster-grade dynamic integrated typography, modern advertising aesthetics。
 ```
 
-<!-- Case NEW11: Lion Camel Ridge Dark Myth Scene (by @MANISH1027512) -->
-### Case NEW11: [Lion Camel Ridge Dark Myth Scene](https://x.com/MANISH1027512/status/2045743158860878312) (by [@MANISH1027512](https://x.com/MANISH1027512))
+<!-- Case 29: Lion Camel Ridge Dark Myth Scene (by @MANISH1027512) -->
+### Case 29: [Lion Camel Ridge Dark Myth Scene](https://x.com/MANISH1027512/status/2045743158860878312) (by [@MANISH1027512](https://x.com/MANISH1027512))
 
 | Output |
 | :----: |
@@ -999,8 +1009,8 @@ GPTimage2との組み合わせがかなり良さそうで楽しみ。
 中式怪异，黑暗神秘风格融合中式美学，完美细节，多重管线渲染，完美建模。西游记背景，狮驼岭，千妖万怪，坐在左边巨大王座上的大象王重甲妖精，坐在中间巨大王座上的狮王重甲妖精，坐在右边巨大王座上大鹏鸟王重甲妖精。渺小的背对镜头孙悟空肩抗金箍棒步行前进，孙悟空身穿铠甲，近地仰拍镜头，长焦镜头，强烈阴影。极致细节刻画，多次修改，正确透视和主体线条，精致细节
 ```
 
-<!-- Case NEW13: Luxury Editorial Bookshelf (by @SRKDAN) -->
-### Case NEW13: [Luxury Editorial Bookshelf](https://x.com/SRKDAN/status/2045683829700964821) (by [@SRKDAN](https://x.com/SRKDAN))
+<!-- Case 30: Luxury Editorial Bookshelf (by @SRKDAN) -->
+### Case 30: [Luxury Editorial Bookshelf](https://x.com/SRKDAN/status/2045683829700964821) (by [@SRKDAN](https://x.com/SRKDAN))
 
 | Output |
 | :----: |
@@ -1020,8 +1030,8 @@ PHASE 4, MOOD: Q1 luxury lifestyle, Q2 editorial art, Q3 natural and organic, Q4
 Swap variables: [SUBJECT] / [STYLE] / [CONTEXT]
 ```
 
-<!-- Case NEW14: Dreamy Watercolor Editorial Illustration (by @hmontilla_) -->
-### Case NEW14: [Dreamy Watercolor Editorial Illustration](https://x.com/hmontilla_/status/2045513933096636575) (by [@hmontilla_](https://x.com/hmontilla_))
+<!-- Case 31: Dreamy Watercolor Editorial Illustration (by @hmontilla_) -->
+### Case 31: [Dreamy Watercolor Editorial Illustration](https://x.com/hmontilla_/status/2045513933096636575) (by [@hmontilla_](https://x.com/hmontilla_))
 
 | Output |
 | :----: |
