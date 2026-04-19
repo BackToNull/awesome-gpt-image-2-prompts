@@ -1025,7 +1025,7 @@ Swap variables: [SUBJECT] / [STYLE] / [CONTEXT]
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="https://pbs.twimg.com/media/HGMjl-RXkAAn67R.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/models?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts"><img src="https://pbs.twimg.com/media/HGMe7mMXcAArOaA.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
