@@ -406,7 +406,7 @@ mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy ind
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case70/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/portrait_case70/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -436,7 +436,7 @@ High-detail, ultra-realistic hybrid of editorial photography and print design.
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case71/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/portrait_case71/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -449,7 +449,7 @@ Create image of Magazine feature article [travel] guide page, cute, information 
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case77/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/portrait_case77/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -478,7 +478,7 @@ the #1 tell on AI photos is flat colors and a grainy look. this method removes b
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case78/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/portrait_case78/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -491,7 +491,7 @@ CALMING GREEN TEA Film Kit displayed frontally, the open box shows soft sage-gre
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case79/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/portrait_case79/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -514,7 +514,7 @@ Mood: fresh, premium, modern, and inviting — aligned with upscale U.S. dessert
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case80/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/portrait_case80/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -527,151 +527,7 @@ A hyper-realistic UI/UX mockup displayed on a slim modern laptop placed on a min
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case81/output.jpg" width="300" alt="Output image"></a> |
-
-**提示詞:**
-
-```
-Ultra-realistic cinematic DSLR photograph of an 18-year-old handsome young man with a slim skinny body, lean physique, narrow shoulders and waist, standing confidently in front of a blue 2017 Ford Mustang GT Convertible with a bold red soft top roof, captured from a high-angle aerial perspective exactly like a luxury driveway photoshoot. Keep face 100% identical to reference image with exact facial structure, natural skin texture, realistic pores, authentic expression, no beautification, no facial modification. Same modern textured side-swept quiff hairstyle with heavy natural volume on top, deep side flow, messy yet controlled texture, soft matte finish, visible natural hair strands, softly blended sides.
-
-The subject stands centered near the front bumper of the Mustang GT, hands inside hoodie pockets, relaxed shoulders, straight posture, slight head tilt upward toward camera, confident calm expression, wearing oversized premium black hoodie with realistic cotton texture, natural folds, hanging drawstrings, loose dark washed black denim jeans with soft wrinkles and stacked hems, clean white sneakers with realistic leather texture and sole details, black slim rectangular sunglasses.
-
-Car must be a detailed 2017 Ford Mustang GT Convertible, metallic electric blue paint, glossy reflections on hood, visible Mustang pony grille emblem, aggressive headlights, muscular hood sculpting, aerodynamic front bumper, black alloy wheels, premium red convertible fabric roof, realistic windshield reflections, detailed side mirrors, authentic tire tread, showroom-clean finish
-
-Scene set in an upscale villa driveway with light beige hexagonal stone pavement, curved border with fresh green grass on left side, tropical palm leaves entering frame from top corners, subtle luxury outdoor atmosphere. Soft natural daylight, diffused afternoon lighting, realistic shadows under car and body, soft reflections on paintwork, cinematic premium color grading, natural contrast, shallow depth separation while maintaining environment clarity. Shot on 35mm lens, vertical composition, full body framing, crisp details, hyper-realistic DSLR quality, zero Al look, natural skin rendering, realistic hair strands, fabric texture, stone surface texture, luxury lifestyle mood. stylish text AmanZaid at the bottom-left corner, signature style
-
-Negative Prompt:
-
-face changed, different identity, beautified face, edited face, smooth plastic skin, fake skin glow, wrong hairstyle, short hair, fade haircut, buzzcut, messy deformed hair, female features, muscular body, fat body, broad shoulders, bad anatomy, long neck, short legs, extra fingers, missing fingers, mutated hands, distorted arms, broken posture, crossed eyes, lazy eye, bad sunglasses, blurry face, low resolution, pixelated, noisy image, overexposed, underexposed, harsh shadows, unrealistic reflections, fake car shape, wrong car model, damaged car, extra wheels, warped Mustang logo, incorrect. proportions, bad pavement texture, background artifacts, duplicate objects, watermark, logo errors, text artifacts, cropped feet, cut car, unnatural perspective, CGI render, cartoon style, painting, Al artifacts, oversaturated colors, motion blur, lens distortion 1664x2080-ar 4:5
-```
-
-<!-- Case 19: Create the most realistic front page design of a vintage newspaper featuring the main char (by @Naiknelofar788) -->
-### Case 19: [Create the most realistic front page design of a vintage newspaper featuring the main char](https://x.com/Naiknelofar788/status/2047207812800147647?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@Naiknelofar788](https://x.com/Naiknelofar788))
-
-| Output |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case70/output.jpg" width="300" alt="Output image"></a> |
-
-**提示詞:**
-
-```
-Create the most realistic front page design of a vintage newspaper featuring the main character. The layout should be made in the style of a real printed newspaper with a cinematic black-and-white aesthetic.
-The main photo should be prominently placed in the center, framed, like the image in the title of the article. The subject in the photo should remain unchanged and clearly distinguishable in natural light and slightly increased contrast in order to match the spectacular editorial style.
-Create a bold, attention-grabbing headline at the top (create a unique title that matches the spirit of the photo - it can be romantic, mysterious, funny, or dramatic). Add a smaller subtitle under it, which will look like a real newspaper caption.
-Add realistic newspaper elements:
-Columns of small text (in the style of lorem ipsum, but framed like real news)
-At the top is the fictitious name of the publication (for example, The Daily Prompts, AI Times or similar - think creatively, according to the picture)
-Date, issue number and location
-Decorative lines, dividers, and vintage typography
-Small additional articles or captions to the main image
-Optional stamps, doodles, or editorial notes to add personality.
-Style:
-Black and white or slightly faded monochrome paper
-Fine paper texture, grain, and ink defects
-Small shadows and creases that mimic real printed paper
-The aesthetics of a clean but slightly worn vintage newspaper
-Mood: Give the design personality, expressiveness and plot, as if the plot is part of the main article.
-Aspect ratio: 4:5 or 1:1
-High-detail, ultra-realistic hybrid of editorial photography and print design.
-```
-
-<!-- Case 20: Create image of Magazine feature article [travel] guide page, cute, information dense phot (by @andis13) -->
-### Case 20: [Create image of Magazine feature article [travel] guide page, cute, information dense phot](https://x.com/andis13/status/2047204384811921764?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@andis13](https://x.com/andis13))
-
-| Output |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case71/output.jpg" width="300" alt="Output image"></a> |
-
-**提示詞:**
-
-```
-Create image of Magazine feature article [travel] guide page, cute, information dense photo book style magazine feature article page. Add all necessary sections, tips, recommendations, information. add photos for any sections and recommendations if you like. Place the attached person at the precise location of [city, country]. Seamlessly blend the attached person as if they are sightseeing. Approach this task with the understanding that this is a critical, information rich page that will significantly influence visitor numbers, text accuracy is important. Fully use the entire [9:16] page. NEGATIVE PROMPT: coordinate texts @swiat_ai @ProfitAII
-```
-
-<!-- Case 21: analyze this photo and give me a detailed JSON prompt that recreates it. break down the co (by @pavellaslov) -->
-### Case 21: [analyze this photo and give me a detailed JSON prompt that recreates it. break down the co](https://x.com/pavellaslov/status/2047182214304055339?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@pavellaslov](https://x.com/pavellaslov))
-
-| Output |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case77/output.jpg" width="300" alt="Output image"></a> |
-
-**提示詞:**
-
-```
-analyze this photo and give me a detailed JSON prompt that recreates it. break down the color grading and every exact color in the photo
-
-(use Opus, not Sonnet. Opus has stronger visual analysis and writes more detailed JSON)
-
-paste that JSON into ChatGPT
-upload your product image and prompt:
-using this JSON as reference, generate a person holding my product
-save that generated photo as your character reference
-
-attach it to every future generation for facial consistency
-
-you now have a consistent UGC model that works across any product
-
-the JSON controls the lighting and color grading. GPT image-2 handles the character. you control the product placement.
-
-the #1 tell on AI photos is flat colors and a grainy look. this method removes both.
-5 minutes to set up. unlimited variations after.
-```
-
-<!-- Case 22: CALMING GREEN TEA Film Kit displayed frontally, the open box shows soft sage-green film po (by @ZaraIrahh) -->
-### Case 22: [CALMING GREEN TEA Film Kit displayed frontally, the open box shows soft sage-green film po](https://x.com/ZaraIrahh/status/2047180061657452601?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@ZaraIrahh](https://x.com/ZaraIrahh))
-
-| Output |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case78/output.jpg" width="300" alt="Output image"></a> |
-
-**提示詞:**
-
-```
-CALMING GREEN TEA Film Kit displayed frontally, the open box shows soft sage-green film pouches and translucent ampoules with matte silver caps, product placed centrally with clear branding CALMING GREEN TEA -- 7 Days to Soothed Skin, pastel green background with botanical graphic accents, three minimal icons (leaf, wave, balance) floating around the product to emphasize benefits, photographic, hyper detailed, ultra realistic, lifelike, 8k, high detail, soft professional lighting.
-```
-
-<!-- Case 23: Ultra-realistic product photography of a rich strawberry soft-serve ice cream in a crispy (by @ZaraIrahh) -->
-### Case 23: [Ultra-realistic product photography of a rich strawberry soft-serve ice cream in a crispy](https://x.com/ZaraIrahh/status/2047179916161212542?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@ZaraIrahh](https://x.com/ZaraIrahh))
-
-| Output |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case79/output.jpg" width="300" alt="Output image"></a> |
-
-**提示詞:**
-
-```
-Ultra-realistic product photography of a rich strawberry soft-serve ice cream in a crispy waffle cone, styled with a clean, modern premium aesthetic. The soft serve is a vibrant natural pink, thick and creamy, sculpted into a smooth swirl with a softly curled peak, lightly topped with delicate strawberry dust or tiny fruit specks for a fresh, appetizing look. The cone has a rustic, crunchy texture with slightly uneven edges for an artisanal feel.
-The background is soft beige with natural sunlight casting subtle leaf shadows, creating a calm, organic atmosphere. Include softly blurred greenery in the foreground for depth. The composition is minimal, balanced, and uses negative space effectively, similar to high-end American food brand ads.
-On the left side, include modern English typography in a clean, elegant layout (not vertical).
-Main headline:
-Sweet Strawberry Bliss.
-Supporting line (smaller text):
-Made with real strawberries. Smooth. Creamy. Irresistible.
-Add a small circular badge showing the price:
-$5.80.
-Lighting: soft natural daylight, warm highlights, shallow depth of field, high-end commercial food photography style.
-Mood: fresh, premium, modern, and inviting — aligned with upscale U.S. dessert branding.
-```
-
-<!-- Case 24: A hyper-realistic UI/UX mockup displayed on a slim modern laptop placed on a minimal woode (by @ZaraIrahh) -->
-### Case 24: [A hyper-realistic UI/UX mockup displayed on a slim modern laptop placed on a minimal woode](https://x.com/ZaraIrahh/status/2047179669011616172?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@ZaraIrahh](https://x.com/ZaraIrahh))
-
-| Output |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case80/output.jpg" width="300" alt="Output image"></a> |
-
-**提示詞:**
-
-```
-A hyper-realistic UI/UX mockup displayed on a slim modern laptop placed on a minimal wooden desk with soft natural daylight. The screen shows a clean SaaS dashboard with elegant typography, glassmorphism cards, smooth gradients, subtle drop shadows, and neatly spaced components. Visible charts, analytics panels, sidebar navigation, and micro-interactions. Realistic macOS-style window frame, soft reflections on the screen, shallow depth of field, cozy workspace atmosphere, shot in photorealistic product photography style, ultra-detailed.
-```
-
-<!-- Case 25: Ultra-realistic cinematic DSLR photograph of an 18-year-old handsome young man with a slim (by @harboriis) -->
-### Case 25: [Ultra-realistic cinematic DSLR photograph of an 18-year-old handsome young man with a slim](https://x.com/harboriis/status/2047175250761433416?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@harboriis](https://x.com/harboriis))
-
-| Output |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/portrait_case81/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/portrait_case81/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -1536,7 +1392,7 @@ AI 必须依据【主题】自动决定最合适的:
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case60/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/poster_case60/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -1549,7 +1405,7 @@ A full-body outdoor shot captures a young Caucasian woman, possibly in her late 
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case62/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/poster_case62/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -1576,7 +1432,7 @@ Commercial product photography, ultra-detailed, 8K.
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case75/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/poster_case75/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -1591,7 +1447,7 @@ Online 360° Panorama Viewer VR
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case82/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/poster_case82/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -1608,7 +1464,7 @@ Two children in calm conversation,soft connection forming.
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case85/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/poster_case85/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -1657,7 +1513,7 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case87/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/poster_case87/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -1670,7 +1526,7 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case89/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/poster_case89/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -1685,7 +1541,7 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case90/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/poster_case90/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -1700,7 +1556,7 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case103/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/poster_case103/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -1715,7 +1571,7 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case104/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/poster_case104/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -1728,7 +1584,7 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case105/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/poster_case105/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -1741,227 +1597,7 @@ generate an image of a racing car poster with its spec and pricing
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case106/output.jpg" width="300" alt="Output image"></a> |
-
-**提示詞:**
-
-```
-重新生成一张海报，卓别林拿着商品图里的止痒膏，面露微笑。风格要简约干净。
-
-左边是 GPT-image-2 右边是
-```
-
-<!-- Case 58: A full-body outdoor shot captures a young Caucasian woman, possibly in her late 20s, strid (by @AIwithSarah_) -->
-### Case 58: [A full-body outdoor shot captures a young Caucasian woman, possibly in her late 20s, strid](https://x.com/AIwithSarah_/status/2047234995627172229?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@AIwithSarah_](https://x.com/AIwithSarah_))
-
-| Output |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case60/output.jpg" width="300" alt="Output image"></a> |
-
-**提示詞:**
-
-```
-A full-body outdoor shot captures a young Caucasian woman, possibly in her late 20s, striding through a city crosswalk. She wears an oversized, matte chocolate-brown leather jacket paired with a free-flowing black skirt and sleek knee-high black boots, conveying a sense of high fashion street style. Her long, dark brown hair is wind-swept, complementing her poised and confident expression as she glances sideways. Behind her, a blurred urban backdrop features a yellow taxi and pedestrians, with buildings displaying varied architectural details in neutral tones. The scene utilizes soft ambient daylight filtering through light cloud cover, producing a muted, overcast lighting effect. The warm, earthy color palette consists of brown, black, and touches of beige. The image, likely from a high-resolution digital camera, presents a wide-angle view that maintains focus throughout, emphasizing a dynamic and fashionable feel.
-```
-
-<!-- Case 59: A professional product photography shot of a cold sparkling water (by @meng_dagg695) -->
-### Case 59: [A professional product photography shot of a cold sparkling water](https://x.com/meng_dagg695/status/2047227172486824002?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@meng_dagg695](https://x.com/meng_dagg695))
-
-| Output |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case62/output.jpg" width="300" alt="Output image"></a> |
-
-**提示詞:**
-
-```
-A professional product photography shot of a cold sparkling water
-can placed upright in golden beach sand. The can is silver and teal,
-covered in realistic water droplets condensation, with a pineapple
-illustration and tropical branding. The can is slightly tilted,
-planted in a small mound of fine golden sand with tiny white pebbles
-and small green tropical leaves/grass scattered around the base.
-Background features a bold split composition - bright sky-blue on
-the left and vivid yellow on the right, with a large blurred real
-pineapple placed behind the can on the right side. A blurred tropical
-palm leaf drapes in from the upper left corner, adding depth and
-framing. Macro-level water condensation droplets visible on the
-can surface. Lighting is bright, vibrant, commercial studio lighting
-with clean shadows. Shallow depth of field - can in sharp focus,
-background softly blurred. Mood: summer, tropical, fresh, refreshing.
-Commercial product photography, ultra-detailed, 8K.
-```
-
-<!-- Case 60: 360度 equirectangular （正距円筒図法）画像を2:1で生成 (by @rs_elwood) -->
-### Case 60: [360度 equirectangular （正距円筒図法）画像を2:1で生成](https://x.com/rs_elwood/status/2047192228758692036?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@rs_elwood](https://x.com/rs_elwood))
-
-| Output |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case75/output.jpg" width="300" alt="Output image"></a> |
-
-**提示詞:**
-
-```
-360度 equirectangular （正距円筒図法）画像を2:1で生成
-
-Online 360° Panorama Viewer VR
-```
-
-<!-- Case 61: Soft poetic children's book illustration with watercolor and gouache textures.Clear gentle (by @dotey) -->
-### Case 61: [Soft poetic children's book illustration with watercolor and gouache textures.Clear gentle](https://x.com/dotey/status/2047174895293849972?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@dotey](https://x.com/dotey))
-
-| Output |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case82/output.jpg" width="300" alt="Output image"></a> |
-
-**提示詞:**
-
-```
-Soft poetic children's book illustration with watercolor and gouache textures.Clear gentle daylight with slightly brighter highlights.Muted pastel colors with soft blue and warm tones.Visible brush strokes and paper grain.Minimalist composition with large negative space.Calm, thoughtful, slightly open-ended atmosphere.
-
-Child character (around 12 years old).Subtle visual metaphors like light, shadow, perspective, reflection.Hand-painted picture book style, not cartoon, not anime, not 3D.
-
-Two children in calm conversation,soft connection forming.
-```
-
-<!-- Case 62: Aspect Ratio: 9:16 Vertical (by @GeekCatX) -->
-### Case 62: [Aspect Ratio: 9:16 Vertical](https://x.com/GeekCatX/status/2047220831491858766?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@GeekCatX](https://x.com/GeekCatX))
-
-| Output |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case85/output.jpg" width="300" alt="Output image"></a> |
-
-**提示詞:**
-
-```
-Aspect Ratio: 9:16 Vertical
-
-【IDENTITY & REALISM (CRITICAL PRIORITY)】
-
-The subject is an adult female whose facial features and bone structure must 100% perfectly match the provided FACE_REF image. Eye spacing, nose bridge, jawline, and cheekbone structure must be exact; no identity drift is allowed. Skin texture must be photorealistic, showing pores and fine details—do not over-smooth or apply an Instagram filter look.
-
-【PHOTOGRAPHY & CINEMATOGRAPHY】
-
-A high-end editorial fashion photograph with a cinematic quality, rivaling covers of Vogue, Harper’s Bazaar, or ELLE.
-
-Lens & Focus: Use an 85mm lens (for medium shot) or 50mm/70mm (for full body) with a shallow depth of field. The subject's eyes must be perfectly sharp.
-
-Lighting: Natural winter daylight supplemented by soft, professional fill light. Gold ornaments and precious stones should have realistic specular highlights without being blown out. Embroidery textures must be incredibly sharp and tactile.
-
-Color Grading: Rich, cinematic colors. The red walls and the attire's main color must be distinct and clean, not muddy. The overall image should feel deep, textured, and expensive.
-
-Composition: A clean magazine cover layout with deliberate negative space at the top or sides for typography. No torn paper or hand-drawn effects.
-
-【SETTING: FORBIDDEN CITY WINTER】
-
-The location is a red-walled long corridor in the Beijing Forbidden City.
-
-Environment: Visible details include vermilion walls, red pillars, intricate carved windows, and painted wooden beams with strong perspective depth. The scene must be clean: no tourists, modern signs, or watermarks.
-
-Weather Condition (Selected Randomly):
-
-[If Snowfall selected]: Fine snowflakes are gently falling.
-
-[If Post-Snow selected]: The air is crisp and clear, with remnant snow on the eaves and steps.
-
-【WARDROBE: MING DYNASTY HEAVY INDUSTRY COUTURE】
-
-The subject wears opulent, multi-layered Ming Dynasty ceremonial Hanfu. The aesthetic is gold-heavy, dense tassels, phoenix crown, large-area woven gold embroidery, complex layering, dignified and luxurious.
-
-Structure: A visible, crisp white standing inner collar provides a clean boundary. Over this is a structured duijin ao (jacket) with wide sleeves, topped by a heavy xiapei/pibo (stole) structure held by a large central yajin ornament.
-
-Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with palpable fiber texture. The embroidery is heavy industry—using panjin goldwork, couched gold
-```
-
-<!-- Case 63: 帮我生成一个介绍杭州西湖的海报 (by @BNBOKBt5) -->
-### Case 63: [帮我生成一个介绍杭州西湖的海报](https://x.com/BNBOKBt5/status/2047210189741605082?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@BNBOKBt5](https://x.com/BNBOKBt5))
-
-| Output |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case87/output.jpg" width="300" alt="Output image"></a> |
-
-**提示詞:**
-
-```
-帮我生成一个介绍杭州西湖的海报
-```
-
-<!-- Case 64: 图片1：电影角色海报，东方不败红衣饮酒，悬崖落日，武侠意境 (by @songguoxiansen) -->
-### Case 64: [图片1：电影角色海报，东方不败红衣饮酒，悬崖落日，武侠意境](https://x.com/songguoxiansen/status/2047204566559756707?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@songguoxiansen](https://x.com/songguoxiansen))
-
-| Output |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case89/output.jpg" width="300" alt="Output image"></a> |
-
-**提示詞:**
-
-```
-图片1：电影角色海报，东方不败红衣饮酒，悬崖落日，武侠意境
-
-图片2：东方不败绣花针如飞，红衣长发立于悬崖，黑木崖夕阳如血
-```
-
-<!-- Case 65: 图片1：大话西游海报重制为90年代港片风格，至尊宝紫霞城墙拥吻，胶片颗粒 (by @songguoxiansen) -->
-### Case 65: [图片1：大话西游海报重制为90年代港片风格，至尊宝紫霞城墙拥吻，胶片颗粒](https://x.com/songguoxiansen/status/2047201597697245252?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@songguoxiansen](https://x.com/songguoxiansen))
-
-| Output |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case90/output.jpg" width="300" alt="Output image"></a> |
-
-**提示詞:**
-
-```
-图片1：大话西游海报重制为90年代港片风格，至尊宝紫霞城墙拥吻，胶片颗粒
-
-图片2：杜蕾斯吉祥物×猪八戒，八戒害羞脸红遮面，文案取经路上要安全
-```
-
-<!-- Case 66: 西游记女儿国诱惑海报，六位艳丽的女儿国大臣在后宫温泉中，迷雾朦胧妖冶，生成图片 (by @cj858cjsoul) -->
-### Case 66: [西游记女儿国诱惑海报，六位艳丽的女儿国大臣在后宫温泉中，迷雾朦胧妖冶，生成图片](https://x.com/cj858cjsoul/status/2047103956535697822?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@cj858cjsoul](https://x.com/cj858cjsoul))
-
-| Output |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case103/output.jpg" width="300" alt="Output image"></a> |
-
-**提示詞:**
-
-```
-西游记女儿国诱惑海报，六位艳丽的女儿国大臣在后宫温泉中，迷雾朦胧妖冶，生成图片
-
-4.23早上测试成功
-```
-
-<!-- Case 67: 生成鹿鼎记海报，展现韦小宝跟老婆XXX，忠于原著的描述，夸大特点，强调女性的美艳和男性的气质 (by @caiziboshi) -->
-### Case 67: [生成鹿鼎记海报，展现韦小宝跟老婆XXX，忠于原著的描述，夸大特点，强调女性的美艳和男性的气质](https://x.com/caiziboshi/status/2047091751731519744?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@caiziboshi](https://x.com/caiziboshi))
-
-| Output |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case104/output.jpg" width="300" alt="Output image"></a> |
-
-**提示詞:**
-
-```
-生成鹿鼎记海报，展现韦小宝跟老婆XXX，忠于原著的描述，夸大特点，强调女性的美艳和男性的气质
-```
-
-<!-- Case 68: generate an image of a racing car poster with its spec and pricing (by @verysmallwoods) -->
-### Case 68: [generate an image of a racing car poster with its spec and pricing](https://x.com/verysmallwoods/status/2047033599229137126?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@verysmallwoods](https://x.com/verysmallwoods))
-
-| Output |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case105/output.jpg" width="300" alt="Output image"></a> |
-
-**提示詞:**
-
-```
-generate an image of a racing car poster with its spec and pricing
-```
-
-<!-- Case 69: 重新生成一张海报，卓别林拿着商品图里的止痒膏，面露微笑。风格要简约干净。” (by @chenenpei) -->
-### Case 69: [重新生成一张海报，卓别林拿着商品图里的止痒膏，面露微笑。风格要简约干净。”](https://x.com/chenenpei/status/2046985783715025135?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@chenenpei](https://x.com/chenenpei))
-
-| Output |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/poster_case106/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/poster_case106/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -2479,7 +2115,7 @@ Real mobile phone screen recording screenshot feeling, the live broadcast UI is 
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case63/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/ui_case63/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -2492,7 +2128,7 @@ based on the generated character help me generate a screenshot of screenshot of 
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case64/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/ui_case64/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -2527,68 +2163,7 @@ Create a commercial ad from the storyboard @[image1]
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case88/output.jpg" width="300" alt="Output image"></a> |
-
-**提示詞:**
-
-```
-李佳琦直播间背景，口红矩阵展示墙，暖光氛围灯，文案OMG买它
-```
-
-<!-- Case 41: based on the generated character help me generate a screenshot of screenshot of an pvp gam (by @khaiinit) -->
-### Case 41: [based on the generated character help me generate a screenshot of screenshot of an pvp gam](https://x.com/khaiinit/status/2047219694130827273?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@khaiinit](https://x.com/khaiinit))
-
-| Output |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case63/output.jpg" width="300" alt="Output image"></a> |
-
-**提示詞:**
-
-```
-based on the generated character help me generate a screenshot of screenshot of an pvp game themed around *zelda: wind breaker*
-```
-
-<!-- Case 42: Create a landing page using this image as a reference for style and color grading.” (by @D_studioproject) -->
-### Case 42: [Create a landing page using this image as a reference for style and color grading.”](https://x.com/D_studioproject/status/2047212826264211540?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@D_studioproject](https://x.com/D_studioproject))
-
-| Output |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case64/output.jpg" width="300" alt="Output image"></a> |
-
-**提示詞:**
-
-```
-Create a landing page using this image as a reference for style and color grading.
-```
-
-<!-- Case 43: a Final Fantasy VIII Remake gameplay screenshot at next-gen fidelity (FF16 / GTA6 / RE9). (by @bonega_ai) -->
-### Case 43: [a Final Fantasy VIII Remake gameplay screenshot at next-gen fidelity (FF16 / GTA6 / RE9).](https://x.com/bonega_ai/status/2047208708459966846?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@bonega_ai](https://x.com/bonega_ai))
-
-
-
-**提示詞:**
-
-```
-a Final Fantasy VIII Remake gameplay screenshot at next-gen fidelity (FF16 / GTA6 / RE9).
-```
-
-<!-- Case 44: Create a commercial ad from the storyboard @[image1] (by @aimikoda) -->
-### Case 44: [Create a commercial ad from the storyboard @[image1]](https://x.com/aimikoda/status/2047198655371759973?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@aimikoda](https://x.com/aimikoda))
-
-
-
-**提示詞:**
-
-```
-Create a commercial ad from the storyboard @[image1]
-```
-
-<!-- Case 45: 李佳琦直播间背景，口红矩阵展示墙，暖光氛围灯，文案"OMG买它 (by @songguoxiansen) -->
-### Case 45: [李佳琦直播间背景，口红矩阵展示墙，暖光氛围灯，文案"OMG买它](https://x.com/songguoxiansen/status/2047207826913972518?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@songguoxiansen](https://x.com/songguoxiansen))
-
-| Output |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case88/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/ui_case88/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -2599,250 +2174,12 @@ Create a commercial ad from the storyboard @[image1]
 ## 模型比較與社群案例
 
 
-<!-- Case 40: Japanese AI Game Dev Overview Slide Prompt (by @ailovedirector) -->
-### Case 40: [Japanese AI Game Dev Overview Slide Prompt](https://x.com/ailovedirector/status/2046905387274891296) (by [@ailovedirector](https://x.com/ailovedirector))
-
-| Output |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/ui_case40/output.jpg" width="300" alt="Output image"></a> |
-
-**Prompt:**
-
-```
-横長のパワポ画像ここで生成してみて　どのモデル使ってるか判定するから、今のAIゲーム開発の概要をまとめた1枚パワポで　日本語で
-
-ゲーム開発の技術に関して、工数ベースでどこにパワーかかるかの分析資料といかに量産が大事かについての説明とかのパワポ画も作って
-```
-
-<!-- Case 5: Wooden Bookshelf Prompt Test (by @chetaslua) -->
-### Case 5: [Wooden Bookshelf Prompt Test](https://x.com/chetaslua/status/2044331451077013749) (by [@chetaslua](https://x.com/chetaslua))
-
-| 輸出效果 |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case5/output.jpg" width="300" alt="輸出圖像"></a> |
-
-**提示詞：**
-
-```
-A wooden bookshelf consisting of three shelves: On the top shelf, there should be one book, on the second shelf, there should be three books, and on the bottom shelf, there should be seven books.
-```
-
-
-<!-- Case 10: GPT-Image-2 Detail Showcase (by @liyue_ai) -->
-### Case 10: [GPT-Image-2 Detail Showcase](https://x.com/liyue_ai/status/2045000106919997637) (by [@liyue_ai](https://x.com/liyue_ai))
-
-| 輸出效果 |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case10/output.jpg" width="300" alt="輸出圖像"></a> |
-
-**提示詞：**
-
-```
-以眼部特写图片为基础，生成3:4的四屏构图超写实眼部特写，四屏按春夏秋冬上下排序。
-
-第一屏：眼眸中带着绽粉樱色的美瞳，睫毛缀满迷你春花，脸颊散落樱瓣与黄蕊小花，粉蝶萦绕眉眼，浅金发丝轻垂，下方簇簇樱花怒放，画面中央"SPRING"白色艺术字点缀，风格细腻唯美，光影柔和，色彩粉嫩治愈，下面用书法体写着春；
-
-第二屏：眼眸中带着着清荷色的美瞳，睫毛饰以粉莲与绿荷，脸颊挂着晶莹水珠，粉瓣、绿荷点缀其间，蜻蜓轻绕，浅金发丝若隐若现，画面中央"Summer"白色艺术字凸显，光影通透流光感，色彩清透凉爽，下面用书法体写着夏；
-
-第三屏：眼眸中带着金黄红相间的美瞳，睫毛饰以橙红枫叶，脸颊散落金红秋叶，橙蝶翩跹眉眼间，浅金发丝隐约可见，画面中央"AUTUMN"白色艺术字醒目，光影暖金流光，色彩浓郁温暖，下面用书法笔写着秋；
-
-第四屏：眼眸中带着雪花蓝色的美瞳，睫毛覆满冰晶雪片，脸颊散落白色雪花与红色腊梅，银白蝴蝶翩跹眉眼，浅金发丝朦胧似雪，画面中央"WINTER"白色艺术字亮眼，光影冷冽蓝白流光，色彩清透纯净，下面用书法体写着冬。
-
-整体呈现梦幻眼眸四季交替的唯美梦幻治愈画面，微调各屏的光影强度，让画面氛围感更浓郁。
-```
-
-
-<!-- Case 16: A/B Test Signed Output (by @saskr_13) -->
-### Case 16: [A/B Test Signed Output](https://x.com/saskr_13/status/2044744396932079934) (by [@saskr_13](https://x.com/saskr_13))
-
-| 輸出效果 |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case16/output.jpg" width="300" alt="輸出圖像"></a> |
-
-**提示詞：**
-
-```
-私があなたをどんなふうに扱ってきたか、4 コマ漫画風に描いてください。まずは 800 字くらいのプロットをテキストで出して、私が「描いて」と言ったらプロットに沿った 4 コマ漫画を描いてください。
-```
-
-
-<!-- Case 23: Silhouette Universe Narrative Poster (by @MrLarus) -->
-### Case 23: [Silhouette Universe Narrative Poster](https://x.com/MrLarus/status/2045418028733538620) (by [@MrLarus](https://x.com/MrLarus))
-
-| 輸出效果 |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case23/output.jpg" width="300" alt="輸出圖像"></a> |
-
-**提示詞：**
-
-```
-请根据【主题：xxx】自动生成一张高审美的“轮廓宇宙 / 收藏版叙事海报”风格作品。不要将画面局限于固定器物或常见容器，不要优先默认瓶子、沙漏、玻璃罩、怀表之类的常规载体，而是由 AI 根据主题自行判断并选择一个最契合、最有象征意义、轮廓最强、最适合承载完整叙事世界的主轮廓载体。这个主轮廓可以是器物、建筑、门、塔、拱门、穹顶、楼梯井、长廊、雕像、侧脸、眼睛、手掌、头骨、羽翼、面具、镜面、王座、圆环、裂缝、光幕、阴影、几何结构、空间切面、舞台框景、抽象符号或其他更有创意与主题代表性的视觉轮廓，要求合理布局。优先选择最能放大主题气质、最能形成强烈视觉记忆点、最能体现史诗感、神秘感、诗意感或设计感的轮廓，而不是最安全、最普通、最常见的容器。
-
-画面的核心不是简单把世界装进某个物体里，而是让完整的主题世界自然生长在这个主轮廓之中、之内、之上、之边界里或与其结构融为一体，形成一种“主题宇宙依附于一个象征性轮廓展开”的高级叙事效果。主轮廓必须清晰、优雅、有辨识度，并在整体构图中占据核心地位。轮廓内部或边界中需要自动生成与主题强绑定的完整叙事世界，内容应当丰富、饱满、层次清晰，包括最能代表主题的标志性场景、核心建筑或空间结构、象征符号与隐喻元素、角色关系或文明痕迹、远景中景近景的空间递进、具有命运感和情绪张力的氛围层次，以及门、台阶、桥梁、水面、烟雾、路径、光源、遗迹、机械结构、自然景观、抽象形态、生物或道具等叙事细节。所有元素必须统一、自然、有主次、有层级地融合，像一个完整世界真实孕育在这个轮廓结构之中，而不是简单拼贴、裁切填充、素材堆叠或模板化背景。
-
-整体构图需要具有强烈的收藏版海报气质与高级设计感，大结构稳定，主轮廓强烈明确，内部世界具有纵深、秩序和呼吸感，细节丰富但不拥挤，内容丰满但不杂乱，可以适度加入小比例人物剪影、远处建筑、光柱、门洞、桥、阶梯、回廊、倒影、天光或远景结构来增强尺度感、故事感与史诗感。整体画面要安静、宏大、凝练、富有余味，不要平均铺满，不要廉价热闹，不要无重点堆砌。
-
-风格融合收藏版电影海报构图、高级叙事型视觉设计、梦幻水彩质感与纸张印刷品气质，强调纸张颗粒感、边缘飞白、水彩刷痕、轻微晕染、空气透视、柔和雾化、局部体积光、光雾穿透、大面积留白与克制版式，让画面看起来像设计师完成的高端收藏版视觉作品，而不是普通 AI 跑图。整体气质要高级、诗意、宏大、神圣、怀旧、安静、具有传说感和叙事感。
-
-色彩由 AI 根据主题自动判断并匹配最合适的高级配色方案，但必须保持统一、克制、耐看、低饱和、高级，不要杂乱高饱和，不要廉价霓虹感，不要塑料数码感。配色可以围绕黑金灰、冷蓝灰、雾白灰、褐红米白、暗铜、旧纸色、深海蓝、暮色紫、银灰等体系自由变化，但必须始终服务主题，并保持海报级审美与整体和谐。
-
-最终要求：第一眼有强烈的主题识别度和轮廓记忆点，第二眼有完整丰富的叙事世界，第三眼仍有细节和余味。轮廓选择必须具有创意和主题匹配度，尽量避免重复、保守、常见的容器套路，优先选择更有象征性、更有空间感、更有设计潜力的轮廓形式。不要普通背景拼接，不要生硬裁切，不要模板化奇幻素材，不要游戏宣传图感，不要过度卡通化，不要过度写实导致失去艺术感，不要形式大于内容。如果合适，可以自然加入低调克制的标题、编号、签名或落款，让它更像收藏版海报设计的一部分，但不要喧宾夺主。
-```
-
-<!-- Case 29: Lion Camel Ridge Dark Myth Scene (by @MANISH1027512) -->
-### Case 29: [Lion Camel Ridge Dark Myth Scene](https://x.com/MANISH1027512/status/2045743158860878312) (by [@MANISH1027512](https://x.com/MANISH1027512))
-
-| 輸出效果 |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case29/output.jpg" width="300" alt="輸出圖像"></a> |
-
-**提示詞：**
-
-```
-中式怪异，黑暗神秘风格融合中式美学，完美细节，多重管线渲染，完美建模。西游记背景，狮驼岭，千妖万怪，坐在左边巨大王座上的大象王重甲妖精，坐在中间巨大王座上的狮王重甲妖精，坐在右边巨大王座上大鹏鸟王重甲妖精。渺小的背对镜头孙悟空肩抗金箍棒步行前进，孙悟空身穿铠甲，近地仰拍镜头，长焦镜头，强烈阴影。极致细节刻画，多次修改，正确透视和主体线条，精致细节
-```
-
-<!-- Case 30: Counter-Strike x Terraria Screenshot Mashup (by @yssrski) -->
-### Case 30: [Counter-Strike x Terraria Screenshot Mashup](https://x.com/yssrski/status/2046410519595348397) (by [@yssrski](https://x.com/yssrski))
-
-| 輸出效果 |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case30/output.jpg" width="300" alt="輸出圖像"></a> |
-
-**提示詞：**
-
-```
-counter strike in game screenshot, mixed with Terraria
-```
-
-<!-- Case 31: Pre-war Japan Lab Minecraft Screenshot (by @RitaStar1128) -->
-### Case 31: [Pre-war Japan Lab Minecraft Screenshot](https://x.com/RitaStar1128/status/2046406024303976904) (by [@RitaStar1128](https://x.com/RitaStar1128))
-
-| 輸出效果 |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case31/output.jpg" width="300" alt="輸出圖像"></a> |
-
-**提示詞：**
-
-```
-戦前日本の怪しげな研究所を探検しているマイクラのスクリーンショット画像を作成して
-```
-
-<!-- Case 32: Forged Masterpiece Prompt Test (by @MrLarus) -->
-### Case 32: [Forged Masterpiece Prompt Test](https://x.com/MrLarus/status/2046201836525302032) (by [@MrLarus](https://x.com/MrLarus))
-
-| 輸出效果 |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case32/output.jpg" width="300" alt="輸出圖像"></a> |
-
-**提示詞：**
-
-```
-帮我生成xxxx真迹图片
-```
-
-<!-- Case 33: Multi-Concept Battle Poster Set (by @joshesye) -->
-### Case 33: [Multi-Concept Battle Poster Set](https://x.com/joshesye/status/2046493442428039212) (by [@joshesye](https://x.com/joshesye))
-
-| 輸出效果 |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case33/output.jpg" width="300" alt="輸出圖像"></a> |
-
-**提示詞：**
-
-```
-1、生成不知火舞和貂蝉的游戏对战海报图
-2、生成一张K-pop团体时尚专辑封面
-3、请你生成 《斗破苍穹》 的关键人物关系图
-4、帮我截一张上传图片的抖音首页的女网红图
-```
-
-<!-- Case 34: Rust In-Game Screenshot (by @FixlationAI) -->
-### Case 34: [Rust In-Game Screenshot](https://x.com/FixlationAI/status/2046272578705068476) (by [@FixlationAI](https://x.com/FixlationAI))
-
-| 輸出效果 |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case34/output.jpg" width="300" alt="輸出圖像"></a> |
-
-**提示詞：**
-
-```
-an ingame screenshot of rust
-```
-
-<!-- Case 35: Sam Altman Bear Selfie (by @JustinGorya) -->
-### Case 35: [Sam Altman Bear Selfie](https://x.com/JustinGorya/status/2046510831832006970) (by [@JustinGorya](https://x.com/JustinGorya))
-
-| 輸出效果 |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case35/output.jpg" width="300" alt="輸出圖像"></a> |
-
-**提示詞：**
-
-```
-generate image: Selfie of Sam Altman riding a bear
-
-Edit prompt: Remove the background make it transparent
-```
-
-<!-- Case 36: Among Us Realistic Screenshot (by @ReYYYYoking) -->
-### Case 36: [Among Us Realistic Screenshot](https://x.com/ReYYYYoking/status/2046502217843376292) (by [@ReYYYYoking](https://x.com/ReYYYYoking))
-
-| 輸出效果 |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case36/output.jpg" width="300" alt="輸出圖像"></a> |
-
-**提示詞：**
-
-```
-AmongUsの精密な実際のゲーム画像を生成して
-```
-
-<!-- Case 37: Retro Programming Museum Cartoon (by @XiaohuiAI666) -->
-### Case 37: [Retro Programming Museum Cartoon](https://x.com/XiaohuiAI666/status/2046515319947354603) (by [@XiaohuiAI666](https://x.com/XiaohuiAI666))
-
-| 輸出效果 |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case37/output.jpg" width="300" alt="輸出圖像"></a> |
-
-**提示詞：**
-
-```
-在计算机博物馆里,一个程序员在展厅中央,正在演示C语言编程,很多参观者在围观,屏幕上的代码清晰可见。旁边的牌子写着:古法编程,现场表演。2D卡通画风,16:9
-```
-
-<!-- Case 38: 14th-Dimension Projection Scene (by @workingclassbud) -->
-### Case 38: [14th-Dimension Projection Scene](https://x.com/workingclassbud/status/2046506783850815703) (by [@workingclassbud](https://x.com/workingclassbud))
-
-| 輸出效果 |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case38/output.jpg" width="300" alt="輸出圖像"></a> |
-
-**提示詞：**
-
-```
-A dusk shindig  with multiple fake imagination projections all aligned in the 14th dimensions
-```
-
-<!-- Case 39: Sam Altman Baseball Broadcast (by @16kthir0GRXgNqn) -->
-### Case 39: [Sam Altman Baseball Broadcast](https://x.com/16kthir0GRXgNqn/status/2046507362266259832) (by [@16kthir0GRXgNqn](https://x.com/16kthir0GRXgNqn))
-
-| 輸出效果 |
-| :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/comparison_case39/output.jpg" width="300" alt="輸出圖像"></a> |
-
-**提示詞：**
-
-```
-サムアルトマンがメジャーリーガーでバットを構えている。よくあるようなテレビ画面の構図
-```
-
 <!-- Case 40: Based on the video content and this current frame, use GPT to generate a YouTube thumbnail (by @chatcutapp) -->
 ### Case 40: [Based on the video content and this current frame, use GPT to generate a YouTube thumbnail](https://x.com/chatcutapp/status/2047228386117128475?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts) (by [@chatcutapp](https://x.com/chatcutapp))
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case61/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case61/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -2855,7 +2192,7 @@ Based on the video content and this current frame, use GPT to generate a YouTube
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case65/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case65/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -2868,7 +2205,7 @@ Generate an image of the most significant event of 2020
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case66/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case66/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -2881,7 +2218,7 @@ Edit this image so that total amount changes to 244.5 baht. You can change the q
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case67/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case67/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -2894,7 +2231,7 @@ Generate an image of the most significant event of 2001
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case69/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case69/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -2907,7 +2244,7 @@ Generate an image of the most significant event of 2025.
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case73/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case73/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -2921,7 +2258,7 @@ Idea: @icreatelife
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case74/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case74/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -2935,7 +2272,7 @@ Idea: @icreatelife
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case76/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case76/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -2948,7 +2285,7 @@ Conociendo todo lo que sabes sobre mí, crea una infografía de mí. Haz una ima
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case83/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case83/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -2961,7 +2298,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case84/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case84/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -2974,7 +2311,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case86/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case86/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -2987,7 +2324,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case91/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case91/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -3000,7 +2337,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case92/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case92/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -3013,7 +2350,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case93/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case93/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -3050,7 +2387,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case94/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case94/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -3063,7 +2400,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case95/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case95/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -3076,7 +2413,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case96/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case96/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -3091,7 +2428,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case97/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case97/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -3104,7 +2441,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case98/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case98/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -3117,7 +2454,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case99/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case99/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -3130,7 +2467,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case100/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case100/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -3143,7 +2480,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case101/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case101/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -3156,7 +2493,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case102/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case102/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -3169,7 +2506,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case107/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case107/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -3182,7 +2519,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case108/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case108/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -3195,7 +2532,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case109/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case109/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -3218,7 +2555,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case110/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case110/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -3239,7 +2576,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case111/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case111/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -3254,7 +2591,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case112/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case112/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -3312,7 +2649,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case113/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case113/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -3328,7 +2665,7 @@ GPT Image-2で生成したやつ→
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case114/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case114/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -3341,7 +2678,7 @@ GPT Image-2で生成したやつ→
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case115/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case115/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -3354,7 +2691,7 @@ GPT Image-2で生成したやつ→
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case116/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case116/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
@@ -3369,7 +2706,7 @@ GPT Image-2で生成したやつ→
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="./images/case_case117/output.jpg" width="300" alt="Output image"></a> |
+| <img src="images/case_case117/output.jpg" width="300" alt="Output image"> |
 
 **提示詞:**
 
